@@ -13,7 +13,7 @@
       "primary": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(223, 33, 33, 1)",
+        "value": "rgba(208, 33, 223, 1)",
         "type": "color"
       },
       "secondary": {
