@@ -1,0 +1,47 @@
+{
+  "sizes": {
+    "8": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 8,
+      "type": "number",
+      "unit": "pixel"
+    }
+  },
+  "color": {
+    "base": {
+      "primary": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(223, 33, 33, 1)",
+        "type": "color"
+      },
+      "secondary": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(0, 50, 235, 1)",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(217, 217, 217, 1)",
+        "type": "color"
+      },
+      "light": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(243, 243, 243, 1)",
+        "type": "color"
+      },
+      "neutral": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(77, 77, 77, 1)",
+        "type": "color"
+      }
+    }
+  }
+}
