@@ -6,6 +6,66 @@
       "value": 8,
       "type": "number",
       "unit": "pixel"
+    },
+    "base": {
+      "primary": {
+        "value": "#df2121",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#0032eb",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#ee1818",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "light": {
+        "value": "#f3f3f3",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#4d4d4d",
+        "type": "color"
+      }
+    },
+    "button": {
+      "primary": {
+        "background": {
+          "value": "#1b16fd",
+          "type": "color"
+        },
+        "color": {
+          "value": "#e14040",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "background": {
+          "value": "#8b0e8e",
+          "type": "color"
+        },
+        "color": {
+          "value": "#ff5400",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "background": {
+          "value": "#68f6b2",
+          "type": "color"
+        },
+        "color": {
+          "value": "#111111",
+          "type": "color"
+        }
+      }
     }
   },
   "color": {
