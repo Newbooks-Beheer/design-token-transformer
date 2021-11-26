@@ -42,6 +42,14 @@
         "value": "rgba(77, 77, 77, 1)",
         "type": "color"
       }
+    },
+    "button": {
+      "primary": {
+        "background": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
     }
   }
 }
