@@ -9,15 +9,15 @@
     },
     "base": {
       "primary": {
-        "value": "#df2121",
+        "value": "#00aa13",
         "type": "color"
       },
       "secondary": {
-        "value": "#0032eb",
+        "value": "#003da5",
         "type": "color"
       },
       "tertiary": {
-        "value": "#ee1818",
+        "value": "#fedb00",
         "type": "color"
       }
     },
@@ -38,7 +38,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "#1b16fd",
+          "value": "#43f35f",
           "type": "color"
         },
         "color": {
