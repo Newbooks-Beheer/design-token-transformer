@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Nov 2021 14:39:31 GMT
+// Generated on Fri, 26 Nov 2021 14:56:35 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -39,6 +39,7 @@ ColorUiDangerPale,
 ColorUiInfoPale,
 ColorLinkPrimary,
 ColorLinkSecondary,
+ColorLinkNeutral,
 ColorTextGrey,
 ColorTextBlack,
 ColorTextWhite,
