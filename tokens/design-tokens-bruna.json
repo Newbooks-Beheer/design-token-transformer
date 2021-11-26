@@ -6,6 +6,30 @@
       "value": 8,
       "type": "number",
       "unit": "pixel"
+    },
+    "base": {
+      "primary": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#0032eb",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "light": {
+        "value": "#f3f3f3",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#4d4d4d",
+        "type": "color"
+      }
     }
   },
   "color": {
