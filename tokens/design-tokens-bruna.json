@@ -1,12 +1,5 @@
 {
   "sizes": {
-    "8": {
-      "category": "size",
-      "exportKey": "size",
-      "value": 8,
-      "type": "number",
-      "unit": "pixel"
-    },
     "base": {
       "primary": {
         "value": "#ff6d6d",
@@ -174,10 +167,6 @@
         "value": "#e7314c",
         "type": "color"
       }
-    },
-    "channel": {
-      "value": "readshop",
-      "type": "other"
     }
   },
   "color": {
@@ -214,6 +203,12 @@
         "value": "#4d4d4d",
         "type": "color"
       }
+    }
+  },
+  "meta": {
+    "channel": {
+      "value": "readshop",
+      "type": "other"
     }
   }
 }
