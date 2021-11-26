@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Sep 2021 11:40:13 GMT
+// Generated on Fri, 26 Nov 2021 14:21:56 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -12,9 +12,45 @@
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorBasePrimary,
 ColorBaseSecondary,
+ColorBaseTertiary,
+ColorBaseWhite,
 ColorBorderDefault,
 ColorBorderLight,
-ColorBorderNeutral
+ColorBorderNeutral,
+ColorBorderActive,
+ColorNeutralGreyPale,
+ColorNeutralGreyStrong,
+ColorNeutralBlack,
+ColorNeutralNeutralPale,
+ColorNeutralNeutralStrong,
+ColorButtonPrimaryBackground,
+ColorButtonPrimaryText,
+ColorButtonSecondaryBackground,
+ColorButtonSecondaryText,
+ColorButtonTertiaryBackground,
+ColorButtonTertiaryText,
+ColorUiSuccessStrong,
+ColorUiErrorStrong,
+ColorUiDangerStrong,
+ColorUiInfo,
+ColorUiSuccessPale,
+ColorUiErrorPale,
+ColorUiDangerPale,
+ColorUiInfoPale,
+ColorLinkPrimary,
+ColorLinkSecondary,
+ColorTextGrey,
+ColorTextBlack,
+ColorTextWhite,
+ColorTextPrice,
+ColorTextCallToAction,
+ColorTextDanger,
+ColorTextSuccess,
+ColorTextError,
+ColorIconDefault,
+ColorIconRatingActive,
+ColorIconRatingInactive,
+ColorOverigLoadingColor
 };
 
 @interface StyleDictionaryColor : NSObject
