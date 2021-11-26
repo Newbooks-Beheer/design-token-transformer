@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Nov 2021 14:26:33 GMT
+// Generated on Fri, 26 Nov 2021 14:36:23 GMT
 
 
 import UIKit
@@ -58,6 +58,5 @@ public class StyleDictionary {
     public static let colorUiInfoPale = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorUiSuccessPale = UIColor(red: 0.886, green: 0.973, blue: 0.929, alpha: 1)
     public static let colorUiSuccessStrong = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let metaChannel = readshop
     public static let sizes8 = 8
 }
