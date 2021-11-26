@@ -128,6 +128,40 @@
         "value": "#959595",
         "type": "color"
       }
+    },
+    "ui": {
+      "success strong": {
+        "value": "#00aa13",
+        "type": "color"
+      },
+      "error strong": {
+        "value": "#e7314c",
+        "type": "color"
+      },
+      "danger strong": {
+        "value": "#ff5400",
+        "type": "color"
+      },
+      "info": {
+        "value": "#f2f0a1",
+        "type": "color"
+      },
+      "success pale": {
+        "value": "#e2f8ed",
+        "type": "color"
+      },
+      "error pale": {
+        "value": "#feede9",
+        "type": "color"
+      },
+      "danger pale": {
+        "value": "#fff9e4",
+        "type": "color"
+      },
+      "info pale": {
+        "value": "#f3f3f3",
+        "type": "color"
+      }
     }
   },
   "color": {
