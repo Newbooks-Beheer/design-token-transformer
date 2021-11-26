@@ -165,6 +165,40 @@
         "value": "#00aa13",
         "type": "color"
       }
+    },
+    "text": {
+      "grey": {
+        "value": "#757575",
+        "type": "color"
+      },
+      "black": {
+        "value": "#211a2b",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "price": {
+        "value": "#211a2b",
+        "type": "color"
+      },
+      "call to action": {
+        "value": "#ff5400",
+        "type": "color"
+      },
+      "danger": {
+        "value": "#ff5400",
+        "type": "color"
+      },
+      "success": {
+        "value": "#00aa13",
+        "type": "color"
+      },
+      "error": {
+        "value": "#e7314c",
+        "type": "color"
+      }
     }
   },
   "color": {
