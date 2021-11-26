@@ -59,7 +59,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "#43f35f",
+          "value": "#1b16fd",
           "type": "color"
         },
         "color": {
@@ -87,7 +87,7 @@
       },
       "tertiary": {
         "background": {
-          "value": "#f67168",
+          "value": "#68f6b2",
           "type": "color"
         },
         "color": {
