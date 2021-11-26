@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Nov 2021 14:21:56 GMT
+// Generated on Fri, 26 Nov 2021 14:26:33 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -50,7 +50,14 @@ ColorTextError,
 ColorIconDefault,
 ColorIconRatingActive,
 ColorIconRatingInactive,
-ColorOverigLoadingColor
+ColorOverigLoadingColor,
+ColorBannerHighlight,
+ColorBannerPrimaryBackground,
+ColorBannerPrimaryColor,
+ColorBannerSecondaryColor,
+ColorBannerSecondaryBackground,
+ColorPageheaderDefaultBackground,
+ColorFormInputBorderDefault
 };
 
 @interface StyleDictionaryColor : NSObject

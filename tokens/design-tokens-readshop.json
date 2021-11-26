@@ -474,6 +474,97 @@
           }
         }
       }
+    },
+    "banner": {
+      "highlight": {
+        "description": null,
+        "type": "color",
+        "value": "#00aa13ff",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1d4fcb2c98e84faae74e7bde94750c8c8a9a54e4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary": {
+        "background": {
+          "description": null,
+          "type": "color",
+          "value": "#00aa13ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:5a40270690ad72155ea7226f760c5c76c40ce853,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "color": {
+          "description": null,
+          "type": "color",
+          "value": "#00aa13ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d362b673b2216555b4d7073325c03e9a070fdc74,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "color": {
+          "description": null,
+          "type": "color",
+          "value": "#00aa13ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3f6ab57b5c79dbf9295a70498f023a86592f3de6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "background": {
+          "description": null,
+          "type": "color",
+          "value": "#00aa13ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:1406e0c48f92def74faae1bde318ad127873af98,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
+    },
+    "pageheader": {
+      "default": {
+        "background": {
+          "description": null,
+          "type": "color",
+          "value": "#ecf3deff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f831562713eb02fd039fea38b3faae91fdcb4ffb,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "input": {
+        "border default": {
+          "description": null,
+          "type": "color",
+          "value": "#d9d9d9ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f87d75a0e8e310ac8ee48f15addb89a78cba2d7c,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
     }
   }
 }

@@ -4,12 +4,17 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Nov 2021 14:21:56 GMT
+// Generated on Fri, 26 Nov 2021 14:26:33 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let colorBannerHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorBannerPrimaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorBannerPrimaryColor = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorBannerSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorBannerSecondaryColor = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBasePrimary = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBaseSecondary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
     public static let colorBaseTertiary = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
@@ -24,6 +29,7 @@ public class StyleDictionary {
     public static let colorButtonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonTertiaryBackground = UIColor(red: 0.408, green: 0.965, blue: 0.698, alpha: 1)
     public static let colorButtonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
+    public static let colorFormInputBorderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorIconDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorIconRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let colorIconRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
@@ -35,6 +41,7 @@ public class StyleDictionary {
     public static let colorNeutralNeutralPale = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorNeutralNeutralStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorOverigLoadingColor = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorPageheaderDefaultBackground = UIColor(red: 0.925, green: 0.953, blue: 0.871, alpha: 1)
     public static let colorTextBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorTextCallToAction = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorTextDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)

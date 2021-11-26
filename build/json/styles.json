@@ -41,5 +41,12 @@
   "ColorIconRatingActive": "#fedb00",
   "ColorIconRatingInactive": "#d9d9d9",
   "ColorOverigLoadingColor": "#00aa13",
+  "ColorBannerHighlight": "#00aa13",
+  "ColorBannerPrimaryBackground": "#00aa13",
+  "ColorBannerPrimaryColor": "#00aa13",
+  "ColorBannerSecondaryColor": "#00aa13",
+  "ColorBannerSecondaryBackground": "#00aa13",
+  "ColorPageheaderDefaultBackground": "#ecf3de",
+  "ColorFormInputBorderDefault": "#d9d9d9",
   "MetaChannel": "readshop"
 }
