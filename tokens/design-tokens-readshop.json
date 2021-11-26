@@ -44,6 +44,10 @@
         "color": {
           "value": "#e14040",
           "type": "color"
+        },
+        "text": {
+          "value": "#e14040",
+          "type": "color"
         }
       },
       "secondary": {
@@ -52,6 +56,10 @@
           "type": "color"
         },
         "color": {
+          "value": "#ff5400",
+          "type": "color"
+        },
+        "text": {
           "value": "#ff5400",
           "type": "color"
         }
@@ -64,49 +72,15 @@
         "color": {
           "value": "#111111",
           "type": "color"
+        },
+        "text": {
+          "value": "#111111",
+          "type": "color"
         }
       }
     }
   },
   "color": {
-    "base": {
-      "primary": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#df2121",
-        "type": "color"
-      },
-      "secondary": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#0032eb",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#ee1818",
-        "type": "color"
-      }
-    },
-    "border": {
-      "default": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#d9d9d9",
-        "type": "color"
-      },
-      "light": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#f3f3f3",
-        "type": "color"
-      },
-      "neutral": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#4d4d4d",
-        "type": "color"
-      }
-    },
     "button": {
       "primary": {
         "background": {
