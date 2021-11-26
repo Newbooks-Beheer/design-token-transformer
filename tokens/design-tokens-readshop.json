@@ -1,12 +1,5 @@
 {
   "sizes": {
-    "8": {
-      "category": "size",
-      "exportKey": "size",
-      "value": 8,
-      "type": "number",
-      "unit": "pixel"
-    },
     "base": {
       "primary": {
         "value": "#00aa13",
