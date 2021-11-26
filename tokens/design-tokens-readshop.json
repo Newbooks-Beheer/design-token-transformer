@@ -155,6 +155,16 @@
         "value": "#f3f3f3",
         "type": "color"
       }
+    },
+    "link": {
+      "primary": {
+        "value": "#003da5",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#00aa13",
+        "type": "color"
+      }
     }
   },
   "color": {
