@@ -13,13 +13,13 @@
       "primary": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(208, 33, 223, 1)",
+        "value": "#273f29",
         "type": "color"
       },
       "secondary": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(0, 50, 235, 1)",
+        "value": "#0032eb",
         "type": "color"
       }
     },
@@ -27,19 +27,19 @@
       "default": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(217, 217, 217, 1)",
+        "value": "#d9d9d9",
         "type": "color"
       },
       "light": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(243, 243, 243, 1)",
+        "value": "#f3f3f3",
         "type": "color"
       },
       "neutral": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(77, 77, 77, 1)",
+        "value": "#4d4d4d",
         "type": "color"
       }
     }
