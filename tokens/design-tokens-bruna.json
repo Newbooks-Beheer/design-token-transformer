@@ -1,5 +1,5 @@
 {
-  "sizes": {
+  "color": {
     "base": {
       "primary": {
         "value": "#ff6d6d",
@@ -15,24 +15,6 @@
       },
       "white": {
         "value": "#ffffff",
-        "type": "color"
-      }
-    },
-    "border": {
-      "default": {
-        "value": "#d9d9d9",
-        "type": "color"
-      },
-      "light": {
-        "value": "#f3f3f3",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "#959595",
-        "type": "color"
-      },
-      "active": {
-        "value": "#959595",
         "type": "color"
       }
     },
@@ -54,6 +36,24 @@
         "type": "color"
       },
       "neutral strong": {
+        "value": "#959595",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "light": {
+        "value": "#f3f3f3",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#959595",
+        "type": "color"
+      },
+      "active": {
         "value": "#959595",
         "type": "color"
       }
@@ -165,42 +165,6 @@
       },
       "error": {
         "value": "#e7314c",
-        "type": "color"
-      }
-    }
-  },
-  "color": {
-    "base": {
-      "primary": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#273f29",
-        "type": "color"
-      },
-      "secondary": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#0032eb",
-        "type": "color"
-      }
-    },
-    "border": {
-      "default": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#d9d9d9",
-        "type": "color"
-      },
-      "light": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#f3f3f3",
-        "type": "color"
-      },
-      "neutral": {
-        "category": "color",
-        "exportKey": "color",
-        "value": "#4d4d4d",
         "type": "color"
       }
     }
