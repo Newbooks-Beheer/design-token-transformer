@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Nov 2021 14:56:35 GMT
+// Generated on Wed, 01 Dec 2021 12:26:06 GMT
 
 
 import UIKit
@@ -23,12 +23,12 @@ public enum StyleDictionaryColor {
     public static let borderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let borderLight = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let borderNeutral = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let buttonPrimaryBackground = UIColor(red: 0.106, green: 0.086, blue: 0.992, alpha: 1)
-    public static let buttonPrimaryText = UIColor(red: 0.882, green: 0.251, blue: 0.251, alpha: 1)
-    public static let buttonSecondaryBackground = UIColor(red: 0.545, green: 0.055, blue: 0.557, alpha: 1)
-    public static let buttonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonTertiaryBackground = UIColor(red: 0.408, green: 0.965, blue: 0.698, alpha: 1)
-    public static let buttonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
+    public static let buttonPrimaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let buttonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let buttonSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let buttonSecondaryText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let buttonTertiaryBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
+    public static let buttonTertiaryText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let formInputBorderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let iconDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let iconRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
