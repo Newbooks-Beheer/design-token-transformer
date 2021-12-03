@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 12:30:52 GMT
+// Generated on Fri, 03 Dec 2021 08:25:24 GMT
 
 
 import UIKit
@@ -23,17 +23,17 @@ public enum StyleDictionaryColor {
     public static let borderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let borderLight = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let borderNeutral = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let buttonPrimaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let buttonPrimaryBackground = UIColor(red: 0.494, green: 0.000, blue: 0.667, alpha: 1)
     public static let buttonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let buttonSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let buttonSecondaryText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let buttonSecondaryBackground = UIColor(red: 0.000, green: 1.000, blue: 0.098, alpha: 1)
+    public static let buttonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonTertiaryBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let buttonTertiaryText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let formInputBorderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let iconDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let iconRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let iconRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let linkNeutral = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let linkNeutral = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let linkPrimary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
     public static let linkSecondary = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let neutralBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
