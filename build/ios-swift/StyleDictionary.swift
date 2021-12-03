@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 03 Dec 2021 08:25:24 GMT
+// Generated on Fri, 03 Dec 2021 08:42:34 GMT
 
 
 import UIKit
@@ -23,9 +23,9 @@ public class StyleDictionary {
     public static let colorBorderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorBorderLight = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorBorderNeutral = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let colorButtonPrimaryBackground = UIColor(red: 0.494, green: 0.000, blue: 0.667, alpha: 1)
+    public static let colorButtonPrimaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorButtonSecondaryBackground = UIColor(red: 0.000, green: 1.000, blue: 0.098, alpha: 1)
+    public static let colorButtonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonTertiaryBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorButtonTertiaryText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)

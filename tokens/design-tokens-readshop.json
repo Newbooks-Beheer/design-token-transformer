@@ -154,7 +154,7 @@
         "background": {
           "description": null,
           "type": "color",
-          "value": "#7e00aaff",
+          "value": "#ff5400ff",
           "extensions": {
             "org.lukasoppermann.figmaDesignTokens": {
               "styleId": "S:a07c38abf695341b6db70d4f9e995667bed55fba,",
@@ -178,7 +178,7 @@
         "background": {
           "description": null,
           "type": "color",
-          "value": "#00ff19ff",
+          "value": "#ff5400ff",
           "extensions": {
             "org.lukasoppermann.figmaDesignTokens": {
               "styleId": "S:f17a0b9b346360db0ab191d8abb946e2a9881218,",
