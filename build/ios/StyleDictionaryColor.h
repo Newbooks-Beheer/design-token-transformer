@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 03 Dec 2021 08:45:05 GMT
+// Generated on Fri, 03 Dec 2021 09:58:24 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -37,6 +37,7 @@ ColorUiSuccessPale,
 ColorUiErrorPale,
 ColorUiDangerPale,
 ColorUiInfoPale,
+ColorUiInfoStrong,
 ColorLinkPrimary,
 ColorLinkSecondary,
 ColorLinkNeutral,
@@ -48,10 +49,18 @@ ColorTextCallToAction,
 ColorTextDanger,
 ColorTextSuccess,
 ColorTextError,
+ColorTextCta,
 ColorIconDefault,
 ColorIconRatingActive,
 ColorIconRatingInactive,
 ColorOverigLoadingColor,
+ColorBrandPrimary,
+ColorBrandSecondary,
+ColorBrandTertiary,
+ColorBrandWhite,
+ColorSettingsIconDefault,
+ColorSettingsIconRatingActive,
+ColorSettingsIconRatingInactive,
 ColorBannerHighlight,
 ColorBannerPrimaryBackground,
 ColorBannerPrimaryColor,
