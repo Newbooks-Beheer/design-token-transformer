@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 03 Dec 2021 09:58:24 GMT
+// Generated on Mon, 06 Dec 2021 08:50:26 GMT
 
 
 import UIKit
@@ -37,6 +37,7 @@ public class StyleDictionary {
     public static let colorIconDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorIconRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let colorIconRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let colorLinkList = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkNeutral = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkPrimary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
     public static let colorLinkSecondary = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
@@ -50,6 +51,9 @@ public class StyleDictionary {
     public static let colorSettingsIconDefault = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
     public static let colorSettingsIconRatingActive = UIColor(red: 0.992, green: 0.855, blue: 0.145, alpha: 1)
     public static let colorSettingsIconRatingInactive = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
+    public static let colorSettingsIconsDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let colorSettingsIconsRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
+    public static let colorSettingsIconsRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorTextBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorTextCallToAction = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorTextCta = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
