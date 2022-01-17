@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Dec 2021 08:50:26 GMT
+// Generated on Mon, 17 Jan 2022 14:35:34 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -31,7 +31,6 @@ ColorUiSuccessPale,
 ColorUiErrorPale,
 ColorUiDangerPale,
 ColorUiInfoPale,
-ColorUiInfo,
 ColorButtonPrimaryBackground,
 ColorButtonPrimaryText,
 ColorButtonSecondaryBackground,
@@ -54,6 +53,8 @@ ColorTextCta,
 ColorSettingsIconsDefault,
 ColorSettingsIconsRatingActive,
 ColorSettingsIconsRatingInactive,
+ColorSettingsIconsRatingActive,
+ColorSettingsIconsRatingInactive,
 ColorSettingsIconDefault,
 ColorSettingsIconRatingActive,
 ColorSettingsIconRatingInactive,
@@ -62,16 +63,12 @@ ColorBrandPrimary,
 ColorBrandSecondary,
 ColorBrandTertiary,
 ColorBrandWhite,
-ColorIconDefault,
-ColorIconRatingActive,
-ColorIconRatingInactive,
-ColorBannerHighlight,
-ColorBannerPrimaryBackground,
-ColorBannerPrimaryColor,
-ColorBannerSecondaryColor,
-ColorBannerSecondaryBackground,
-ColorPageheaderDefaultBackground,
-ColorFormInputBorderDefault
+ColorBrandBlack,
+ColorGreyPale,
+ColorGreyStrong,
+ColorGreyNeutralPale,
+ColorGreyNeutralStrong,
+ColorGreyGreyPaler
 };
 
 @interface StyleDictionaryColor : NSObject
