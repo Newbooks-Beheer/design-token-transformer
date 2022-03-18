@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Mar 2022 09:29:59 GMT
+// Generated on Fri, 18 Mar 2022 09:33:34 GMT
 
 
 import UIKit
@@ -22,6 +22,7 @@ public enum StyleDictionaryColor {
     public static let borderNeutral = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let borderStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let borderSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let brandBlack = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
     public static let brandPrimary = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let brandSecondary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
     public static let brandTertiary = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
@@ -43,7 +44,7 @@ public enum StyleDictionaryColor {
     public static let neutralGreyStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let neutralNeutralPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let neutralNeutralStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let overigLoadingColor = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let overigLoadingColor = UIColor(red: 0.992, green: 0.831, blue: 0.086, alpha: 1)
     public static let settingsBadgeBlockBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let settingsBadgeBlockButton = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let settingsBadgeBlockHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
@@ -67,6 +68,13 @@ public enum StyleDictionaryColor {
     public static let settingsBannerSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let settingsBannerSecondaryText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let settingsBannerTextCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let settingsButtonPrimaryBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let settingsButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let settingsButtonSecondaryBackground = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
+    public static let settingsButtonSecondaryText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let settingsButtonTertiaryBackground = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
+    public static let settingsButtonTertiaryText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let settingsButtonTextColor = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let settingsFormCheckboxCheckedColor = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let settingsFormCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let settingsFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -108,8 +116,15 @@ public enum StyleDictionaryColor {
     public static let textCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let textError = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textFeedbackDanger = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
+    public static let textFeedbackError = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textFeedbackSuccess = UIColor(red: 0.059, green: 0.749, blue: 0.149, alpha: 1)
     public static let textGrey = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let textGreyPale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let textIncentiveCta = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textIncentivePrice = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textNeutralGreyDefault = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
+    public static let textNeutralPale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let textPrice = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let textSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
