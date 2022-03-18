@@ -4,12 +4,26 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Mar 2022 13:11:22 GMT
+// Generated on Fri, 18 Mar 2022 14:40:48 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let colorBadgeBlockBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
+    public static let colorBadgeBlockButton = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let colorBadgeBlockHighlight = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let colorBadgeBlockText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let colorBadgePriceBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorBadgePriceText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorBadgePrimaryBackground = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let colorBadgePrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorBadgeSecondaryBackground = UIColor(red: 0.992, green: 0.831, blue: 0.086, alpha: 1)
+    public static let colorBadgeSecondaryText = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
+    public static let colorBadgeTagBackground = UIColor(red: 0.992, green: 0.831, blue: 0.086, alpha: 1)
+    public static let colorBadgeTagText = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
+    public static let colorBadgeTextBackground = UIColor(red: 0.992, green: 0.831, blue: 0.086, alpha: 1)
+    public static let colorBadgeTextText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorBasePrimary = UIColor(red: 0.875, green: 0.129, blue: 0.129, alpha: 1)
     public static let colorBaseSecondary = UIColor(red: 0.000, green: 0.196, blue: 0.922, alpha: 1)
     public static let colorBorderActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
