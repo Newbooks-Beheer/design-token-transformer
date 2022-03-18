@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Mar 2022 14:40:48 GMT
+// Generated on Fri, 18 Mar 2022 14:41:45 GMT
 
 
 import UIKit
@@ -24,8 +24,6 @@ public enum StyleDictionaryColor {
     public static let badgeTagText = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
     public static let badgeTextBackground = UIColor(red: 0.992, green: 0.831, blue: 0.086, alpha: 1)
     public static let badgeTextText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let basePrimary = UIColor(red: 0.875, green: 0.129, blue: 0.129, alpha: 1)
-    public static let baseSecondary = UIColor(red: 0.000, green: 0.196, blue: 0.922, alpha: 1)
     public static let borderActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let borderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let borderError = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
@@ -162,6 +160,7 @@ public enum StyleDictionaryColor {
     public static let uiActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let uiDangerPale = UIColor(red: 1.000, green: 0.976, blue: 0.894, alpha: 1)
     public static let uiDangerStrong = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let uiErorrStrong = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let uiErrorPale = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
     public static let uiErrorStrong = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let uiFocus = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
