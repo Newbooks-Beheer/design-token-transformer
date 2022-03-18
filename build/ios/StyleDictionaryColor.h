@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Mar 2022 12:44:55 GMT
+// Generated on Fri, 18 Mar 2022 13:11:22 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -66,13 +66,6 @@ ColorTextGreyPale,
 ColorSettingsPlaceholder,
 ColorSettingsOverlay,
 ColorSettingsOverigLoadingColor,
-ColorSettingsButtonPrimaryBackground,
-ColorSettingsButtonPrimaryText,
-ColorSettingsButtonSecondaryBackground,
-ColorSettingsButtonSecondaryText,
-ColorSettingsButtonTertiaryBackground,
-ColorSettingsButtonTertiaryText,
-ColorSettingsButtonTextColor,
 ColorSettingsBadgeTextBackground,
 ColorSettingsBadgeTextText,
 ColorSettingsBadgePriceBackground,
@@ -128,6 +121,20 @@ ColorSettingsNavigationBackgroundHover,
 ColorSettingsNavigationBackgroundActive,
 ColorSettingsNavigationBackground,
 ColorSettingsNavigationBackgroundDisabled,
+ColorSettingsButtonPrimaryBackground,
+ColorSettingsButtonPrimaryText,
+ColorSettingsButtonSecondaryBackground,
+ColorSettingsButtonSecondaryText,
+ColorSettingsButtonTertiaryBackground,
+ColorSettingsButtonTertiaryText,
+ColorSettingsButtonTextColor,
+ColorButtonPrimaryBackground,
+ColorButtonPrimaryText,
+ColorButtonSecondaryBackground,
+ColorButtonSecondaryText,
+ColorButtonTertiaryBackground,
+ColorButtonTertiaryText,
+ColorButtonTextColor,
 ColorThemeDefaultPale,
 ColorThemeDefaultStrong,
 ColorThemeOrangePale,
@@ -147,14 +154,7 @@ ColorThemeGreyStrong,
 ColorThemeGreyBluePale,
 ColorThemeGreyBlueStrong,
 ColorThemePurplePale,
-ColorThemePurpleDark,
-ColorButtonPrimaryBackground,
-ColorButtonPrimaryText,
-ColorButtonSecondaryBackground,
-ColorButtonSecondaryText,
-ColorButtonTertiaryBackground,
-ColorButtonTertiaryText,
-ColorButtonTextColor
+ColorThemePurpleDark
 };
 
 @interface StyleDictionaryColor : NSObject

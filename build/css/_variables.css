@@ -56,13 +56,6 @@
   --color-settings-placeholder: #04316a;
   --color-settings-overlay: rgba(17, 17, 17, 0.8);
   --color-settings-overig-loading-color: #00aa13;
-  --color-settings-button-primary-background: #ed3325;
-  --color-settings-button-primary-text: #ffffff;
-  --color-settings-button-secondary-background: #e7f3ff;
-  --color-settings-button-secondary-text: #242424;
-  --color-settings-button-tertiary-background: #e7f3ff;
-  --color-settings-button-tertiary-text: #242424;
-  --color-settings-button-text-color: #ed3325;
   --color-settings-badge-text-background: #003da5;
   --color-settings-badge-text-text: #ffffff;
   --color-settings-badge-price-background: #ed3325;
@@ -118,6 +111,20 @@
   --color-settings-navigation-background-active: #00aa13;
   --color-settings-navigation-background: rgba(255, 255, 255, 0);
   --color-settings-navigation-background-disabled: rgba(255, 255, 255, 0);
+  --color-settings-button-primary-background: #ed3325;
+  --color-settings-button-primary-text: #ffffff;
+  --color-settings-button-secondary-background: #e7f3ff;
+  --color-settings-button-secondary-text: #242424;
+  --color-settings-button-tertiary-background: #e7f3ff;
+  --color-settings-button-tertiary-text: #242424;
+  --color-settings-button-text-color: #ed3325;
+  --color-button-primary-background: #ff5400;
+  --color-button-primary-text: #ffffff;
+  --color-button-secondary-background: #ff5400;
+  --color-button-secondary-text: #ff5400;
+  --color-button-tertiary-background: #f3f3f3;
+  --color-button-tertiary-text: #111111;
+  --color-button-text-color: #ff5400;
   --color-theme-default-pale: #edf2e0;
   --color-theme-default-strong: #d8e7b9;
   --color-theme-orange-pale: #edf2e0;
@@ -138,11 +145,4 @@
   --color-theme-grey-blue-strong: #d8e7b9;
   --color-theme-purple-pale: #edf2e0;
   --color-theme-purple-dark: #d8e7b9;
-  --color-button-primary-background: #ff5400;
-  --color-button-primary-text: #ffffff;
-  --color-button-secondary-background: #ff5400;
-  --color-button-secondary-text: #ff5400;
-  --color-button-tertiary-background: #f3f3f3;
-  --color-button-tertiary-text: #111111;
-  --color-button-text-color: #ff5400;
 }
