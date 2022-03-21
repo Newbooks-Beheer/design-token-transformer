@@ -802,7 +802,7 @@
             }
           }
         },
-        "banner genre background": {
+        "banner-genre-background": {
           "description": "",
           "type": "color",
           "value": "#e7f3ffff",
