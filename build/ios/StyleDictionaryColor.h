@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 12 Apr 2022 08:35:30 GMT
+// Generated on Tue, 12 Apr 2022 08:36:25 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -44,8 +44,11 @@ ColorUiSuccessStrong,
 ColorUiSuccessPale,
 ColorUiInfoStrong,
 ColorUiInfoPale,
+ColorUiInfoInfo,
 ColorUiDangerStrong,
 ColorUiDangerPale,
+ColorUiDangerDangerStrong,
+ColorUiDangerDangerPale,
 ColorUiErrorStrong,
 ColorUiErrorPale,
 ColorUiSuccessStrong,
@@ -92,8 +95,6 @@ ColorSettingsFormInputBorder,
 ColorSettingsIconDefault,
 ColorSettingsIconRatingRatingActive,
 ColorSettingsIconRatingRatingInactive,
-ColorSettingsIconRatingActive,
-ColorSettingsIconRatingInactive,
 ColorSettingsMastheadBackground,
 ColorSettingsMastheadTextAction,
 ColorSettingsMastheadBackgroundActionHover,
