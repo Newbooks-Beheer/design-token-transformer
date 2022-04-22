@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 12 Apr 2022 08:36:25 GMT
+// Generated on Fri, 22 Apr 2022 11:00:34 GMT
 
 
 import UIKit
@@ -64,7 +64,8 @@ public class StyleDictionary {
     public static let colorButtonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorButtonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let colorButtonTextColor = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorFormCheckboxCheckedColor = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
+    public static let colorFormCheckboxCheckedColor = UIColor(red: 0.000, green: 0.184, blue: 0.424, alpha: 1)
+    public static let colorFormCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorFormCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorFormInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
@@ -91,9 +92,13 @@ public class StyleDictionary {
     public static let colorNavigationBackgroundActive = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorNavigationBackgroundDisabled = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
     public static let colorNavigationBackgroundHover = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
+    public static let colorNavigationBarBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorNavigationBarBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorNavigationBarText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
     public static let colorNavigationBarText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorNavigationBarTextActive = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorNavigationBarTextActive = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorNavigationBarTextCta = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorNavigationBarTextCta = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorNavigationText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorNavigationTextActive = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
@@ -174,7 +179,9 @@ public class StyleDictionary {
     public static let colorThemeDefaultStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemeGreenPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemeGreenStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
+    public static let colorThemeGreyBluePale = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorThemeGreyBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
+    public static let colorThemeGreyBlueStrong = UIColor(red: 0.906, green: 0.906, blue: 0.906, alpha: 1)
     public static let colorThemeGreyBlueStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemeGreyPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemeGreyStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
@@ -182,15 +189,14 @@ public class StyleDictionary {
     public static let colorThemeOrangeStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemePinkPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemePinkStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
-    public static let colorThemePurpleDark = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
+    public static let colorThemePurpleDark = UIColor(red: 0.906, green: 0.906, blue: 0.906, alpha: 1)
     public static let colorThemePurplePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
+    public static let colorThemePurpleStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemeRedPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemeRedStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemeYellowPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemeYellowStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorUiActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let colorUiDangerDangerPale = UIColor(red: 1.000, green: 0.976, blue: 0.894, alpha: 1)
-    public static let colorUiDangerDangerStrong = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorUiDangerPale = UIColor(red: 1.000, green: 0.902, blue: 0.820, alpha: 1)
     public static let colorUiDangerPale = UIColor(red: 1.000, green: 0.976, blue: 0.894, alpha: 1)
     public static let colorUiDangerStrong = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
@@ -201,7 +207,6 @@ public class StyleDictionary {
     public static let colorUiErrorStrong = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let colorUiErrorStrong = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorUiFocus = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let colorUiInfoInfo = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorUiInfoPale = UIColor(red: 0.976, green: 0.976, blue: 0.843, alpha: 1)
     public static let colorUiInfoPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorUiInfoStrong = UIColor(red: 0.000, green: 0.184, blue: 0.424, alpha: 1)
@@ -210,9 +215,14 @@ public class StyleDictionary {
     public static let colorUiSuccessPale = UIColor(red: 0.886, green: 0.973, blue: 0.929, alpha: 1)
     public static let colorUiSuccessStrong = UIColor(red: 0.059, green: 0.749, blue: 0.149, alpha: 1)
     public static let colorUiSuccessStrong = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorUspBarBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorUspBarBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorUspBarBorder = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 0)
     public static let colorUspBarBorder = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
+    public static let colorUspBarIcon = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorUspBarIcon = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let colorUspBarIconCheck = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorUspBarIconCheck = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let colorUspBarText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorUspBarText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
 }
