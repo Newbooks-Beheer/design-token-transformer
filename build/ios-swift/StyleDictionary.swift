@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 26 Apr 2022 08:20:30 GMT
+// Generated on Tue, 26 Apr 2022 08:24:33 GMT
 
 
 import UIKit
@@ -92,6 +92,7 @@ public class StyleDictionary {
     public static let colorMastheadTextActionHighlighted = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorMastheadTextaction = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorMastheadTextactionhighlighted = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let colorNavigationArrowColor = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
     public static let colorNavigationBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
     public static let colorNavigationBackgroundActive = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorNavigationBackgroundDisabled = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
@@ -178,7 +179,6 @@ public class StyleDictionary {
     public static let colorTextDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorTextError = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
     public static let colorTextGrey = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let colorTextGreyPale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorTextGreyPale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorTextGreypale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorTextPrice = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
