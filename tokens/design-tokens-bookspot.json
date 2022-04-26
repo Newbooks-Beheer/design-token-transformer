@@ -1029,6 +1029,19 @@
     },
     "form": {
       "checkbox": {
+        "radio": {
+          "active": {
+            "description": "",
+            "type": "color",
+            "value": "#4153a0ff",
+            "extensions": {
+              "org.lukasoppermann.figmaDesignTokens": {
+                "styleId": "S:038de1dffc80a7c201eaace3d76080103880f875,",
+                "exportKey": "color"
+              }
+            }
+          }
+        },
         "disabled": {
           "background": {
             "description": "",
@@ -1069,21 +1082,8 @@
           }
         }
       },
-      "radio": {
-        "active": {
-          "description": "",
-          "type": "color",
-          "value": "#4153a0ff",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:038de1dffc80a7c201eaace3d76080103880f875,",
-              "exportKey": "color"
-            }
-          }
-        }
-      },
       "input": {
-        "border": {
+        "default": {
           "description": "",
           "type": "color",
           "value": "#d9d9d9ff",
@@ -1479,6 +1479,32 @@
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:585f85a275ab5802857ee52d92830ecc6bf5a171,",
             "exportKey": "color"
+          }
+        }
+      }
+    },
+    "inlinemenu": {
+      "text": {
+        "default": {
+          "description": "",
+          "type": "color",
+          "value": "#c2cad6ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:68bf8b7bd69876578630f3e27d893bc77944c11c,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "active": {
+          "description": "",
+          "type": "color",
+          "value": "#4153a0ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d4598b68a8569151eec5ccd838b24dd5591f017c,",
+              "exportKey": "color"
+            }
           }
         }
       }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 26 Apr 2022 08:46:57 GMT
+// Generated on Tue, 26 Apr 2022 09:07:32 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -101,8 +101,10 @@ ColorSettingsOverlay,
 ColorFormCheckboxDisabledBackground,
 ColorFormCheckboxCheckedText,
 ColorFormCheckboxHoverText,
+ColorFormCheckboxRadioActive,
 ColorFormRadioActive,
 ColorFormInputBorder,
+ColorFormInputDefault,
 ColorButtonPrimaryBackground,
 ColorButtonPrimaryText,
 ColorButtonSecondaryBackground,
@@ -137,8 +139,8 @@ ColorNavigationBackgroundactive,
 ColorNavigationBackground,
 ColorNavigationBackgrounddisabled,
 ColorNavigationArrowColor,
-ColorInlinemenuTextActive,
-ColorInlinemenuTextDefault
+ColorInlinemenuTextDefault,
+ColorInlinemenuTextActive
 };
 
 @interface StyleDictionaryColor : NSObject

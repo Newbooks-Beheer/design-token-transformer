@@ -90,8 +90,10 @@
   "ColorFormCheckboxDisabledBackground": "#f3f3f3",
   "ColorFormCheckboxCheckedText": "#959595",
   "ColorFormCheckboxHoverText": "#ffffff",
+  "ColorFormCheckboxRadioActive": "#4153a0",
   "ColorFormRadioActive": "#00aa13",
   "ColorFormInputBorder": "#d9d9d9",
+  "ColorFormInputDefault": "#d9d9d9",
   "ColorButtonPrimaryBackground": "#ff5400",
   "ColorButtonPrimaryText": "#ffffff",
   "ColorButtonSecondaryBackground": "#ff5400",
@@ -126,6 +128,6 @@
   "ColorNavigationBackground": "#ffffff",
   "ColorNavigationBackgrounddisabled": "#ffffff",
   "ColorNavigationArrowColor": "#00aa13",
-  "ColorInlinemenuTextActive": "#003da5",
-  "ColorInlinemenuTextDefault": "#959595"
+  "ColorInlinemenuTextDefault": "#959595",
+  "ColorInlinemenuTextActive": "#003da5"
 }
