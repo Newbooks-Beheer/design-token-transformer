@@ -1468,6 +1468,19 @@
             "exportKey": "color"
           }
         }
+      },
+      "arrow": {
+        "color": {
+          "description": "",
+          "type": "color",
+          "value": "#00aa13ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:714f54cfaf154fa0f77029cfa63300ad34d0d817,",
+              "exportKey": "color"
+            }
+          }
+        }
       }
     }
   }
