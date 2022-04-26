@@ -1482,6 +1482,32 @@
           }
         }
       }
+    },
+    "inlinemenu": {
+      "text": {
+        "default": {
+          "description": "",
+          "type": "color",
+          "value": "#959595ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:5afb49bbe38d8891bda6ce7f67dde423824308ae,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "active": {
+          "description": "",
+          "type": "color",
+          "value": "#003da5ff",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:fa5efa190836f6546952b7284498ea50239a0a9f,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
     }
   }
 }

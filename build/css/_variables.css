@@ -176,4 +176,6 @@
   --color-usp-bar-icon-check: #ffffff;
   --color-usp-bar-border: rgba(243, 243, 243, 0);
   --color-usp-bar-icon: #ffffff;
+  --color-inlinemenu-text-default: #959595;
+  --color-inlinemenu-text-active: #003da5;
 }

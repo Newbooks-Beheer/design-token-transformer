@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 26 Apr 2022 08:27:26 GMT
+// Generated on Tue, 26 Apr 2022 08:38:11 GMT
 
 
 import UIKit
@@ -79,6 +79,8 @@ public class StyleDictionary {
     public static let colorIconRatingActive = UIColor(red: 0.992, green: 0.855, blue: 0.145, alpha: 1)
     public static let colorIconRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorIconRatingInactive = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
+    public static let colorInlinemenuTextActive = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
+    public static let colorInlinemenuTextDefault = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorLinkList = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkNeutral = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkPrimary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)

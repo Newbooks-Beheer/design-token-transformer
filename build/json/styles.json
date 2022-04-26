@@ -175,5 +175,7 @@
   "ColorUspBarText": "#ffffff",
   "ColorUspBarIconCheck": "#ffffff",
   "ColorUspBarBorder": "#f3f3f3",
-  "ColorUspBarIcon": "#ffffff"
+  "ColorUspBarIcon": "#ffffff",
+  "ColorInlinemenuTextDefault": "#959595",
+  "ColorInlinemenuTextActive": "#003da5"
 }
