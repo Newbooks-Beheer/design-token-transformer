@@ -1,12 +1,12 @@
 :root {
+  --color-grey-pale: #f2f2f2;
+  --color-grey-paler: #f9f9f9;
+  --color-grey-strong: #959595;
   --color-brand-primary: #00aa13;
   --color-brand-secondary: #003da5;
   --color-brand-tertiary: #fedb00;
   --color-brand-white: #ffffff;
   --color-brand-black: #211a2b;
-  --color-grey-pale: #f2f2f2;
-  --color-grey-paler: #f9f9f9;
-  --color-grey-strong: #959595;
   --color-neutral-pale: #f2f2f2;
   --color-neutral-strong: #959595;
   --color-border-default: #d9d9d9;

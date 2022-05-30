@@ -4,20 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 26 Apr 2022 09:07:32 GMT
+// Generated on Mon, 30 May 2022 08:05:32 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+ColorGreyPale,
+ColorGreyPaler,
+ColorGreyStrong,
 ColorBrandPrimary,
 ColorBrandSecondary,
 ColorBrandTertiary,
 ColorBrandWhite,
 ColorBrandBlack,
-ColorGreyPale,
-ColorGreyPaler,
-ColorGreyStrong,
 ColorNeutralPale,
 ColorNeutralStrong,
 ColorBorderDefault,
