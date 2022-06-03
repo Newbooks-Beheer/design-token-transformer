@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 30 May 2022 08:05:32 GMT
+// Generated on Fri, 03 Jun 2022 07:50:21 GMT
 
 
 import UIKit
@@ -26,7 +26,6 @@ public enum StyleDictionaryColor {
     public static let badgeTextText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let bannerBackground = UIColor(red: 0.925, green: 0.953, blue: 0.871, alpha: 1)
     public static let bannerCtaBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let bannerCtaCta = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let bannerCtaText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let bannerGenreBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let bannerHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
@@ -61,6 +60,7 @@ public enum StyleDictionaryColor {
     public static let formInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let formInputDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let formRadioActive = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let greyGrey = UIColor(red: 0.929, green: 0.929, blue: 0.929, alpha: 1)
     public static let greyPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let greyPaler = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let greyStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
@@ -107,6 +107,7 @@ public enum StyleDictionaryColor {
     public static let textSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let themeBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
+    public static let themeBluePalez = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
     public static let themeBlueStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let themeDefaultPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let themeDefaultStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)

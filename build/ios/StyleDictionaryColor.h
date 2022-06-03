@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 30 May 2022 08:05:32 GMT
+// Generated on Fri, 03 Jun 2022 07:50:21 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -13,6 +13,7 @@ typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorGreyPale,
 ColorGreyPaler,
 ColorGreyStrong,
+ColorGreyGrey,
 ColorBrandPrimary,
 ColorBrandSecondary,
 ColorBrandTertiary,
@@ -75,6 +76,7 @@ ColorThemeGreenPale,
 ColorThemeGreenStrong,
 ColorThemeBluePale,
 ColorThemeBlueStrong,
+ColorThemeBluePalez,
 ColorThemePinkPale,
 ColorThemePinkStrong,
 ColorThemeRedPale,
@@ -89,7 +91,6 @@ ColorBannerHighlight,
 ColorBannerBackground,
 ColorBannerCtaText,
 ColorBannerCtaBackground,
-ColorBannerCtaCta,
 ColorBannerGenreBackground,
 ColorBannerSecondaryText,
 ColorBannerSecondaryBackground,
