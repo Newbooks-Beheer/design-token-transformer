@@ -131,7 +131,7 @@
       "default": {
         "description": "",
         "type": "color",
-        "value": "#f9f9f9ff",
+        "value": "#e1e2e3ff",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:a83758ac5d2cd38ce5a6f52a8310562cfd040a27,",
