@@ -1112,7 +1112,7 @@
         "background": {
           "description": "",
           "type": "color",
-          "value": "#fff200ff",
+          "value": "#ed3325ff",
           "extensions": {
             "org.lukasoppermann.figmaDesignTokens": {
               "styleId": "S:3f4487d9a25935351e6506359695a15c61985489,",
@@ -1123,7 +1123,7 @@
         "text": {
           "description": "",
           "type": "color",
-          "value": "#242424ff",
+          "value": "#ffffffff",
           "extensions": {
             "org.lukasoppermann.figmaDesignTokens": {
               "styleId": "S:6894fd6ebe6c38784a6989ea5b78242577a544c1,",
