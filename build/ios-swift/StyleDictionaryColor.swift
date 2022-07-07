@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 08:42:54 GMT
+// Generated on Thu, 07 Jul 2022 09:58:12 GMT
 
 
 import UIKit
@@ -56,7 +56,6 @@ public enum StyleDictionaryColor {
     public static let formCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let formCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let formCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let formCheckboxRadioActive = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
     public static let formInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let formInputButtonPrimaryBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let formInputButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -113,7 +112,6 @@ public enum StyleDictionaryColor {
     public static let textSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let themeBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
-    public static let themeBluePalez = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
     public static let themeBlueStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let themeDefaultPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let themeDefaultStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)

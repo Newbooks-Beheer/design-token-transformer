@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 08:42:54 GMT
+// Generated on Thu, 07 Jul 2022 09:58:12 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -76,7 +76,6 @@ ColorThemeGreenPale,
 ColorThemeGreenStrong,
 ColorThemeBluePale,
 ColorThemeBlueStrong,
-ColorThemeBluePalez,
 ColorThemePinkPale,
 ColorThemePinkStrong,
 ColorThemeRedPale,
@@ -102,7 +101,6 @@ ColorSettingsOverlay,
 ColorFormCheckboxDisabledBackground,
 ColorFormCheckboxCheckedText,
 ColorFormCheckboxHoverText,
-ColorFormCheckboxRadioActive,
 ColorFormRadioActive,
 ColorFormInputBorder,
 ColorFormInputButtonPrimaryBackground,
