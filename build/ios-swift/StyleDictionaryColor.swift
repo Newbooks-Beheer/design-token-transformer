@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Jun 2022 08:05:14 GMT
+// Generated on Thu, 07 Jul 2022 08:33:39 GMT
 
 
 import UIKit
@@ -32,7 +32,7 @@ public enum StyleDictionaryColor {
     public static let bannerPrimaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let bannerPrimaryText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let bannerSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let bannerSecondaryText = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let bannerSecondaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let borderActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let borderDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let borderError = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
@@ -58,9 +58,8 @@ public enum StyleDictionaryColor {
     public static let formCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formCheckboxRadioActive = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
     public static let formInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let formInputDefault = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let formRadioActive = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let greyGrey = UIColor(red: 0.929, green: 0.929, blue: 0.929, alpha: 1)
+    public static let greyGrey = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
     public static let greyPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let greyPaler = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let greyStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)

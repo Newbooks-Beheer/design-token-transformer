@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Jun 2022 08:05:14 GMT
+// Generated on Thu, 07 Jul 2022 08:33:39 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -105,7 +105,6 @@ ColorFormCheckboxHoverText,
 ColorFormCheckboxRadioActive,
 ColorFormRadioActive,
 ColorFormInputBorder,
-ColorFormInputDefault,
 ColorButtonPrimaryBackground,
 ColorButtonPrimaryText,
 ColorButtonSecondaryBackground,
