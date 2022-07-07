@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 08:33:39 GMT
+// Generated on Thu, 07 Jul 2022 08:34:22 GMT
 
 
 import UIKit
@@ -58,6 +58,13 @@ public class StyleDictionary {
     public static let colorFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorFormCheckboxRadioActive = UIColor(red: 0.255, green: 0.325, blue: 0.627, alpha: 1)
     public static let colorFormInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let colorFormInputButtonPrimaryBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorFormInputButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorFormInputButtonSecondaryBackground = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
+    public static let colorFormInputButtonSecondaryText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let colorFormInputButtonTertiaryBackground = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
+    public static let colorFormInputButtonTertiaryText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let colorFormInputButtonTextColor = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorFormRadioActive = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorGreyGrey = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
     public static let colorGreyPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
