@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 12:02:58 GMT
+// Generated on Thu, 07 Jul 2022 12:18:37 GMT
 
 
 import UIKit
@@ -74,7 +74,6 @@ public class StyleDictionary {
     public static let colorMastheadBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorMastheadBackgroundactionhighlighted = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let colorMastheadBackgroundactionhover = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let colorMastheadTextAction = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
     public static let colorMastheadTextaction = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorMastheadTextactionhighlighted = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorNavigationArrowColor = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)

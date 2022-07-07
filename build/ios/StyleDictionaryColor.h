@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 12:02:58 GMT
+// Generated on Thu, 07 Jul 2022 12:18:37 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -118,7 +118,6 @@ ColorMastheadBackgroundactionhover,
 ColorMastheadBackgroundactionhighlighted,
 ColorMastheadTextaction,
 ColorMastheadTextactionhighlighted,
-ColorMastheadTextAction,
 ColorNavigationbarBackground,
 ColorNavigationbarText,
 ColorNavigationbarTextcta,

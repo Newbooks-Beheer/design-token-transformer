@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 12:02:58 GMT
+// Generated on Thu, 07 Jul 2022 12:18:38 GMT
 
 
 import UIKit
@@ -74,7 +74,6 @@ public enum StyleDictionaryColor {
     public static let mastheadBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let mastheadBackgroundactionhighlighted = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let mastheadBackgroundactionhover = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let mastheadTextAction = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
     public static let mastheadTextaction = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let mastheadTextactionhighlighted = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let navigationArrowColor = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
