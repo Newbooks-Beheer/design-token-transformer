@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Jul 2022 11:52:31 GMT
+// Generated on Thu, 07 Jul 2022 12:02:58 GMT
 
 
 import UIKit
@@ -105,7 +105,6 @@ public class StyleDictionary {
     public static let colorTextSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorThemeBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
-    public static let colorThemeBluePalez = UIColor(red: 0.906, green: 0.953, blue: 1.000, alpha: 1)
     public static let colorThemeBlueStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let colorThemeDefaultPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let colorThemeDefaultStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
