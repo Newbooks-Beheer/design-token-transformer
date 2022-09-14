@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 13:07:11 GMT
+// Generated on Wed, 14 Sep 2022 14:08:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -49,3 +49,37 @@ extern float const TypographyVariantsTinyTextDefaultFontWeight;
 extern float const TypographyLinkDefaultFontWeight;
 extern float const TypographyLinkDefaultTightFontWeight;
 extern float const TypographyLinkDefaultSmallFontWeight;
+extern float const TypographyPrimaryfontDefaultXxxlargeFontWeight;
+extern float const TypographyPrimaryfontDefaultXxlargeFontWeight;
+extern float const TypographyPrimaryfontDefaultXlargeFontWeight;
+extern float const TypographyPrimaryfontDefaultLargeFontWeight;
+extern float const TypographyPrimaryfontDefaultMediumFontWeight;
+extern float const TypographyPrimaryfontDefaultMediumTightFontWeight;
+extern float const TypographyPrimaryfontDefaultDefaultFontWeight;
+extern float const TypographyPrimaryfontDefaultDefaultTightFontWeight;
+extern float const TypographyPrimaryfontDefaultSmallFontWeight;
+extern float const TypographyPrimaryfontContrastXxxlargeFontWeight;
+extern float const TypographyPrimaryfontContrastXxlargeFontWeight;
+extern float const TypographyPrimaryfontContrastXlargeFontWeight;
+extern float const TypographyPrimaryfontContrastLargeFontWeight;
+extern float const TypographyPrimaryfontContrastMediumFontWeight;
+extern float const TypographyPrimaryfontContrastMediumTightFontWeight;
+extern float const TypographyPrimaryfontContrastDefaultRootFontWeight;
+extern float const TypographyPrimaryfontContrastDefaultTightFontWeight;
+extern float const TypographyPrimaryfontContrastSmallFontWeight;
+extern float const TypographySecondaryfontDefaultXxxlargeFontWeight;
+extern float const TypographySecondaryfontDefaultXxlargeFontWeight;
+extern float const TypographySecondaryfontDefaultXlargeFontWeight;
+extern float const TypographySecondaryfontDefaultLargeFontWeight;
+extern float const TypographySecondaryfontDefaultMediumFontWeight;
+extern float const TypographySecondaryfontDefaultMediumTightFontWeight;
+extern float const TypographySecondaryfontDefaultDefaultFontWeight;
+extern float const TypographySecondaryfontDefaultSmallFontWeight;
+extern float const TypographySecondaryfontContrastXxxlargeFontWeight;
+extern float const TypographySecondaryfontContrastXxlargeFontWeight;
+extern float const TypographySecondaryfontContrastXlargeFontWeight;
+extern float const TypographySecondaryfontContrastLargeFontWeight;
+extern float const TypographySecondaryfontContrastMediumFontWeight;
+extern float const TypographySecondaryfontContrastMediumTightFontWeight;
+extern float const TypographySecondaryfontContrastDefaultFontWeight;
+extern float const TypographySecondaryfontContrastSmallFontWeight;

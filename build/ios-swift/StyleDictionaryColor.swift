@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 13:07:11 GMT
+// Generated on Wed, 14 Sep 2022 14:08:48 GMT
 
 
 import UIKit
@@ -103,6 +103,15 @@ public enum StyleDictionaryColor {
     public static let textPrice = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let textSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let textcolorBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let textcolorCta = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textcolorDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let textcolorError = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textcolorGrey = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let textcolorGreypale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let textcolorPrice = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textcolorSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let textcolorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let themeBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
     public static let themeBlueStrong = UIColor(red: 0.847, green: 0.906, blue: 0.725, alpha: 1)
     public static let themeDefaultPale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)

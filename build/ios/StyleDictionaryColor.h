@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 13:07:11 GMT
+// Generated on Wed, 14 Sep 2022 14:08:48 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -137,7 +137,16 @@ ColorNavigationBackground,
 ColorNavigationBackgrounddisabled,
 ColorNavigationArrowColor,
 ColorInlinemenuTextDefault,
-ColorInlinemenuTextActive
+ColorInlinemenuTextActive,
+ColorTextcolorBlack,
+ColorTextcolorWhite,
+ColorTextcolorPrice,
+ColorTextcolorCta,
+ColorTextcolorGreypale,
+ColorTextcolorGrey,
+ColorTextcolorError,
+ColorTextcolorSuccess,
+ColorTextcolorDanger
 };
 
 @interface StyleDictionaryColor : NSObject

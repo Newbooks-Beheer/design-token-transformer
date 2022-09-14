@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 13:07:11 GMT
+// Generated on Wed, 14 Sep 2022 14:08:48 GMT
 
 
 import UIKit
@@ -31,6 +31,24 @@ public enum StyleDictionarySize {
     public static let primaryDefaultXlargeFontWeight = 400
     public static let primaryDefaultXxlargeFontWeight = 400
     public static let primaryDefaultXxxlargeFontWeight = 400
+    public static let primaryfontContrastDefaultRootFontWeight = 500
+    public static let primaryfontContrastDefaultTightFontWeight = 500
+    public static let primaryfontContrastLargeFontWeight = 500
+    public static let primaryfontContrastMediumFontWeight = 500
+    public static let primaryfontContrastMediumTightFontWeight = 500
+    public static let primaryfontContrastSmallFontWeight = 500
+    public static let primaryfontContrastXlargeFontWeight = 500
+    public static let primaryfontContrastXxlargeFontWeight = 500
+    public static let primaryfontContrastXxxlargeFontWeight = 500
+    public static let primaryfontDefaultDefaultFontWeight = 300
+    public static let primaryfontDefaultDefaultTightFontWeight = 300
+    public static let primaryfontDefaultLargeFontWeight = 300
+    public static let primaryfontDefaultMediumFontWeight = 300
+    public static let primaryfontDefaultMediumTightFontWeight = 300
+    public static let primaryfontDefaultSmallFontWeight = 300
+    public static let primaryfontDefaultXlargeFontWeight = 300
+    public static let primaryfontDefaultXxlargeFontWeight = 300
+    public static let primaryfontDefaultXxxlargeFontWeight = 300
     public static let secondaryContrastDefaultFontWeight = 500
     public static let secondaryContrastLargeFontWeight = 500
     public static let secondaryContrastMediumFontWeight = 500
@@ -47,6 +65,22 @@ public enum StyleDictionarySize {
     public static let secondaryDefaultXlargeFontWeight = 400
     public static let secondaryDefaultXxlargeFontWeight = 400
     public static let secondaryDefaultXxxlargeFontWeight = 400
+    public static let secondaryfontContrastDefaultFontWeight = 700
+    public static let secondaryfontContrastLargeFontWeight = 700
+    public static let secondaryfontContrastMediumFontWeight = 700
+    public static let secondaryfontContrastMediumTightFontWeight = 700
+    public static let secondaryfontContrastSmallFontWeight = 700
+    public static let secondaryfontContrastXlargeFontWeight = 700
+    public static let secondaryfontContrastXxlargeFontWeight = 700
+    public static let secondaryfontContrastXxxlargeFontWeight = 700
+    public static let secondaryfontDefaultDefaultFontWeight = 500
+    public static let secondaryfontDefaultLargeFontWeight = 500
+    public static let secondaryfontDefaultMediumFontWeight = 500
+    public static let secondaryfontDefaultMediumTightFontWeight = 500
+    public static let secondaryfontDefaultSmallFontWeight = 500
+    public static let secondaryfontDefaultXlargeFontWeight = 500
+    public static let secondaryfontDefaultXxlargeFontWeight = 500
+    public static let secondaryfontDefaultXxxlargeFontWeight = 500
     public static let variantsSmallcapsFontWeight = 400
     public static let variantsTinyTextContrastFontWeight = 700
     public static let variantsTinyTextDefaultFontWeight = 400
