@@ -4,24 +4,30 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 14:27:19 GMT
+// Generated on Wed, 14 Sep 2022 14:36:24 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
+    public static let fontvariantsSmallcapsFontWeight = 400
+    public static let fontvariantsTinyTextContrastFontWeight = 600
+    public static let fontvariantsTinyTextDefaultFontWeight = 400
     public static let linkDefaultFontWeight = 400
     public static let linkDefaultSmallFontWeight = 400
     public static let linkDefaultTightFontWeight = 400
-    public static let primaryContrastDefaultRootFontWeight = 600
-    public static let primaryContrastDefaultTightFontWeight = 600
-    public static let primaryContrastLargeFontWeight = 600
-    public static let primaryContrastMediumFontWeight = 600
-    public static let primaryContrastMediumTightFontWeight = 600
-    public static let primaryContrastSmallFontWeight = 600
-    public static let primaryContrastXlargeFontWeight = 600
-    public static let primaryContrastXxlargeFontWeight = 600
-    public static let primaryContrastXxxlargeFontWeight = 600
+    public static let linksDefaultFontWeight = 400
+    public static let linksDefaultSmallFontWeight = 400
+    public static let linksDefaultTightFontWeight = 400
+    public static let primaryContrastDefaultRootFontWeight = 700
+    public static let primaryContrastDefaultTightFontWeight = 700
+    public static let primaryContrastLargeFontWeight = 700
+    public static let primaryContrastMediumFontWeight = 700
+    public static let primaryContrastMediumTightFontWeight = 700
+    public static let primaryContrastSmallFontWeight = 700
+    public static let primaryContrastXlargeFontWeight = 700
+    public static let primaryContrastXxlargeFontWeight = 700
+    public static let primaryContrastXxxlargeFontWeight = 700
     public static let primaryDefaultDefaultFontWeight = 400
     public static let primaryDefaultDefaultTightFontWeight = 400
     public static let primaryDefaultLargeFontWeight = 400

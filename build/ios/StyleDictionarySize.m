@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 14:27:19 GMT
+// Generated on Wed, 14 Sep 2022 14:36:24 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -19,15 +19,15 @@ float const TypographyPrimaryDefaultMediumTightFontWeight = 400;
 float const TypographyPrimaryDefaultDefaultFontWeight = 400;
 float const TypographyPrimaryDefaultDefaultTightFontWeight = 400;
 float const TypographyPrimaryDefaultSmallFontWeight = 400;
-float const TypographyPrimaryContrastXxxlargeFontWeight = 600;
-float const TypographyPrimaryContrastXxlargeFontWeight = 600;
-float const TypographyPrimaryContrastXlargeFontWeight = 600;
-float const TypographyPrimaryContrastLargeFontWeight = 600;
-float const TypographyPrimaryContrastMediumFontWeight = 600;
-float const TypographyPrimaryContrastMediumTightFontWeight = 600;
-float const TypographyPrimaryContrastDefaultRootFontWeight = 600;
-float const TypographyPrimaryContrastDefaultTightFontWeight = 600;
-float const TypographyPrimaryContrastSmallFontWeight = 600;
+float const TypographyPrimaryContrastXxxlargeFontWeight = 700;
+float const TypographyPrimaryContrastXxlargeFontWeight = 700;
+float const TypographyPrimaryContrastXlargeFontWeight = 700;
+float const TypographyPrimaryContrastLargeFontWeight = 700;
+float const TypographyPrimaryContrastMediumFontWeight = 700;
+float const TypographyPrimaryContrastMediumTightFontWeight = 700;
+float const TypographyPrimaryContrastDefaultRootFontWeight = 700;
+float const TypographyPrimaryContrastDefaultTightFontWeight = 700;
+float const TypographyPrimaryContrastSmallFontWeight = 700;
 float const TypographySecondaryDefaultXxxlargeFontWeight = 400;
 float const TypographySecondaryDefaultXxlargeFontWeight = 400;
 float const TypographySecondaryDefaultXlargeFontWeight = 400;
@@ -84,3 +84,9 @@ float const TypographySecondaryfontContrastMediumFontWeight = 500;
 float const TypographySecondaryfontContrastMediumTightFontWeight = 500;
 float const TypographySecondaryfontContrastDefaultFontWeight = 500;
 float const TypographySecondaryfontContrastSmallFontWeight = 500;
+float const TypographyFontvariantsSmallcapsFontWeight = 400;
+float const TypographyFontvariantsTinyTextContrastFontWeight = 600;
+float const TypographyFontvariantsTinyTextDefaultFontWeight = 400;
+float const TypographyLinksDefaultFontWeight = 400;
+float const TypographyLinksDefaultTightFontWeight = 400;
+float const TypographyLinksDefaultSmallFontWeight = 400;
