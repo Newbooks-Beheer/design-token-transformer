@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 14:08:48 GMT
+// Generated on Wed, 14 Sep 2022 14:27:19 GMT
 
 
 import UIKit
@@ -82,7 +82,7 @@ public enum StyleDictionaryColor {
     public static let navigationBackgrounddisabled = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
     public static let navigationBackgroundhover = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let navigationText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let navigationTextactive = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let navigationTextactive = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let navigationTextdisabled = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let navigationTexthover = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let navigationbarBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
@@ -94,22 +94,22 @@ public enum StyleDictionaryColor {
     public static let settingsLoading = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let settingsOverlay = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 0.8)
     public static let settingsPlaceholder = UIColor(red: 0.016, green: 0.192, blue: 0.416, alpha: 1)
-    public static let textBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let textCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
-    public static let textDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let textError = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let textGrey = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let textGreypale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let textPrice = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let textSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
+    public static let textBlack = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let textCta = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textDanger = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
+    public static let textError = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textGrey = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
+    public static let textGreypale = UIColor(red: 0.882, green: 0.886, blue: 0.890, alpha: 1)
+    public static let textPrice = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let textSuccess = UIColor(red: 0.059, green: 0.749, blue: 0.149, alpha: 1)
     public static let textWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textcolorBlack = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let textcolorCta = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textcolorCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textcolorDanger = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let textcolorError = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let textcolorGrey = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let textcolorGrey = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let textcolorGreypale = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let textcolorPrice = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let textcolorPrice = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let textcolorSuccess = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let textcolorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let themeBluePale = UIColor(red: 0.929, green: 0.949, blue: 0.878, alpha: 1)
