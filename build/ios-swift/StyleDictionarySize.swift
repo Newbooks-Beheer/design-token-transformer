@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:55:06 GMT
+// Generated on Thu, 15 Sep 2022 09:55:58 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
     public static let fontvariantsSmallcapsFontWeight = 400
-    public static let fontvariantsTinyTextContrastFontWeight = 600
+    public static let fontvariantsTinyTextContrastFontWeight = 700
     public static let fontvariantsTinyTextDefaultFontWeight = 400
     public static let linkDefaultFontWeight = 400
     public static let linkDefaultSmallFontWeight = 400
@@ -69,7 +69,7 @@ public enum StyleDictionarySize {
     public static let secondaryfontDefaultXlargeFontWeight = 400
     public static let secondaryfontDefaultXxlargeFontWeight = 400
     public static let secondaryfontDefaultXxxlargeFontWeight = 400
-    public static let variantsSmallcapsFontWeight = 400
-    public static let variantsTinyTextContrastFontWeight = 700
-    public static let variantsTinyTextDefaultFontWeight = 400
+    public static let variantsSmallcapsFontWeight = 300
+    public static let variantsTinyTextContrastFontWeight = 300
+    public static let variantsTinyTextDefaultFontWeight = 300
 }

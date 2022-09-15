@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:55:06 GMT
+// Generated on Thu, 15 Sep 2022 09:55:58 GMT
 
 
 import UIKit
@@ -147,7 +147,7 @@ public class StyleDictionary {
     public static let colorUspbarIcon = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorUspbarIconcheck = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorUspbarText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let typographyFontvariantsSmallcapsFontFamily = Work Sans
+    public static let typographyFontvariantsSmallcapsFontFamily = Open Sans
     public static let typographyFontvariantsSmallcapsFontSize = 11
     public static let typographyFontvariantsSmallcapsFontStretch = normal
     public static let typographyFontvariantsSmallcapsFontStyle = normal
@@ -158,18 +158,18 @@ public class StyleDictionary {
     public static let typographyFontvariantsSmallcapsParagraphSpacing = 0
     public static let typographyFontvariantsSmallcapsTextCase = uppercase
     public static let typographyFontvariantsSmallcapsTextDecoration = none
-    public static let typographyFontvariantsTinyTextContrastFontFamily = Work Sans
+    public static let typographyFontvariantsTinyTextContrastFontFamily = Open Sans
     public static let typographyFontvariantsTinyTextContrastFontSize = 11
     public static let typographyFontvariantsTinyTextContrastFontStretch = normal
     public static let typographyFontvariantsTinyTextContrastFontStyle = normal
-    public static let typographyFontvariantsTinyTextContrastFontWeight = 600
+    public static let typographyFontvariantsTinyTextContrastFontWeight = 700
     public static let typographyFontvariantsTinyTextContrastLetterSpacing = 0
     public static let typographyFontvariantsTinyTextContrastLineHeight = 14
     public static let typographyFontvariantsTinyTextContrastParagraphIndent = 0
     public static let typographyFontvariantsTinyTextContrastParagraphSpacing = 0
     public static let typographyFontvariantsTinyTextContrastTextCase = none
     public static let typographyFontvariantsTinyTextContrastTextDecoration = none
-    public static let typographyFontvariantsTinyTextDefaultFontFamily = Work Sans
+    public static let typographyFontvariantsTinyTextDefaultFontFamily = Open Sans
     public static let typographyFontvariantsTinyTextDefaultFontSize = 11
     public static let typographyFontvariantsTinyTextDefaultFontStretch = normal
     public static let typographyFontvariantsTinyTextDefaultFontStyle = normal
@@ -796,33 +796,33 @@ public class StyleDictionary {
     public static let typographySecondaryfontDefaultXxxlargeParagraphSpacing = 0
     public static let typographySecondaryfontDefaultXxxlargeTextCase = none
     public static let typographySecondaryfontDefaultXxxlargeTextDecoration = none
-    public static let typographyVariantsSmallcapsFontFamily = Open Sans
+    public static let typographyVariantsSmallcapsFontFamily = Sofia Pro
     public static let typographyVariantsSmallcapsFontSize = 11
     public static let typographyVariantsSmallcapsFontStretch = normal
     public static let typographyVariantsSmallcapsFontStyle = normal
-    public static let typographyVariantsSmallcapsFontWeight = 400
+    public static let typographyVariantsSmallcapsFontWeight = 300
     public static let typographyVariantsSmallcapsLetterSpacing = 1.18
     public static let typographyVariantsSmallcapsLineHeight = 14
     public static let typographyVariantsSmallcapsParagraphIndent = 0
     public static let typographyVariantsSmallcapsParagraphSpacing = 0
     public static let typographyVariantsSmallcapsTextCase = uppercase
     public static let typographyVariantsSmallcapsTextDecoration = none
-    public static let typographyVariantsTinyTextContrastFontFamily = Open Sans
+    public static let typographyVariantsTinyTextContrastFontFamily = Sofia Pro
     public static let typographyVariantsTinyTextContrastFontSize = 11
     public static let typographyVariantsTinyTextContrastFontStretch = normal
     public static let typographyVariantsTinyTextContrastFontStyle = normal
-    public static let typographyVariantsTinyTextContrastFontWeight = 700
+    public static let typographyVariantsTinyTextContrastFontWeight = 300
     public static let typographyVariantsTinyTextContrastLetterSpacing = 0
     public static let typographyVariantsTinyTextContrastLineHeight = 14
     public static let typographyVariantsTinyTextContrastParagraphIndent = 0
     public static let typographyVariantsTinyTextContrastParagraphSpacing = 0
     public static let typographyVariantsTinyTextContrastTextCase = none
     public static let typographyVariantsTinyTextContrastTextDecoration = none
-    public static let typographyVariantsTinyTextDefaultFontFamily = Open Sans
+    public static let typographyVariantsTinyTextDefaultFontFamily = Sofia Pro
     public static let typographyVariantsTinyTextDefaultFontSize = 11
     public static let typographyVariantsTinyTextDefaultFontStretch = normal
     public static let typographyVariantsTinyTextDefaultFontStyle = normal
-    public static let typographyVariantsTinyTextDefaultFontWeight = 400
+    public static let typographyVariantsTinyTextDefaultFontWeight = 300
     public static let typographyVariantsTinyTextDefaultLetterSpacing = 0
     public static let typographyVariantsTinyTextDefaultLineHeight = 14
     public static let typographyVariantsTinyTextDefaultParagraphIndent = 0
