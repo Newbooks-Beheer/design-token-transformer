@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:55:58 GMT
+// Generated on Thu, 15 Sep 2022 12:04:32 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -19,6 +19,8 @@ float const TypographyPrimaryfontDefaultMediumTightFontWeight = 400;
 float const TypographyPrimaryfontDefaultDefaultFontWeight = 400;
 float const TypographyPrimaryfontDefaultDefaultTightFontWeight = 400;
 float const TypographyPrimaryfontDefaultSmallFontWeight = 400;
+float const TypographyPrimaryfontDefaultMediumTightFontWeight = 400;
+float const TypographyPrimaryfontDefaultDefaultTightFontWeight = 400;
 float const TypographyPrimaryfontContrastXxxlargeFontWeight = 700;
 float const TypographyPrimaryfontContrastXxlargeFontWeight = 700;
 float const TypographyPrimaryfontContrastXlargeFontWeight = 700;
@@ -28,6 +30,9 @@ float const TypographyPrimaryfontContrastMediumTightFontWeight = 700;
 float const TypographyPrimaryfontContrastDefaultRootFontWeight = 700;
 float const TypographyPrimaryfontContrastDefaultTightFontWeight = 700;
 float const TypographyPrimaryfontContrastSmallFontWeight = 700;
+float const TypographyPrimaryfontContrastMediumTightFontWeight = 600;
+float const TypographyPrimaryfontContrastDefaultFontWeight = 600;
+float const TypographyPrimaryfontContrastDefaultTightFontWeight = 600;
 float const TypographySecondaryDefaultXxxlargeFontWeight = 400;
 float const TypographySecondaryDefaultXxlargeFontWeight = 400;
 float const TypographySecondaryDefaultXlargeFontWeight = 400;
@@ -69,6 +74,6 @@ float const TypographySecondaryfontContrastSmallFontWeight = 500;
 float const TypographyVariantsSmallcapsFontWeight = 300;
 float const TypographyVariantsTinyTextContrastFontWeight = 300;
 float const TypographyVariantsTinyTextDefaultFontWeight = 300;
-float const TypographyLinksDefaultFontWeight = 400;
-float const TypographyLinksDefaultTightFontWeight = 400;
-float const TypographyLinksDefaultSmallFontWeight = 400;
+float const TypographyLinksDefaultFontWeight = 300;
+float const TypographyLinksDefaultTightFontWeight = 300;
+float const TypographyLinksDefaultSmallFontWeight = 300;

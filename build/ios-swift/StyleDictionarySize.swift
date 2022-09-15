@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:55:58 GMT
+// Generated on Thu, 15 Sep 2022 12:04:33 GMT
 
 
 import UIKit
@@ -16,22 +16,27 @@ public enum StyleDictionarySize {
     public static let linkDefaultFontWeight = 400
     public static let linkDefaultSmallFontWeight = 400
     public static let linkDefaultTightFontWeight = 400
-    public static let linksDefaultFontWeight = 400
-    public static let linksDefaultSmallFontWeight = 400
-    public static let linksDefaultTightFontWeight = 400
+    public static let linksDefaultFontWeight = 300
+    public static let linksDefaultSmallFontWeight = 300
+    public static let linksDefaultTightFontWeight = 300
+    public static let primaryfontContrastDefaultFontWeight = 600
     public static let primaryfontContrastDefaultRootFontWeight = 700
     public static let primaryfontContrastDefaultTightFontWeight = 700
+    public static let primaryfontContrastDefaultTightFontWeight = 600
     public static let primaryfontContrastLargeFontWeight = 700
     public static let primaryfontContrastMediumFontWeight = 700
     public static let primaryfontContrastMediumTightFontWeight = 700
+    public static let primaryfontContrastMediumTightFontWeight = 600
     public static let primaryfontContrastSmallFontWeight = 700
     public static let primaryfontContrastXlargeFontWeight = 700
     public static let primaryfontContrastXxlargeFontWeight = 700
     public static let primaryfontContrastXxxlargeFontWeight = 700
     public static let primaryfontDefaultDefaultFontWeight = 400
     public static let primaryfontDefaultDefaultTightFontWeight = 400
+    public static let primaryfontDefaultDefaultTightFontWeight = 400
     public static let primaryfontDefaultLargeFontWeight = 400
     public static let primaryfontDefaultMediumFontWeight = 400
+    public static let primaryfontDefaultMediumTightFontWeight = 400
     public static let primaryfontDefaultMediumTightFontWeight = 400
     public static let primaryfontDefaultSmallFontWeight = 400
     public static let primaryfontDefaultXlargeFontWeight = 400

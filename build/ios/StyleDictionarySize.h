@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:55:58 GMT
+// Generated on Thu, 15 Sep 2022 12:04:32 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -18,6 +18,8 @@ extern float const TypographyPrimaryfontDefaultMediumTightFontWeight;
 extern float const TypographyPrimaryfontDefaultDefaultFontWeight;
 extern float const TypographyPrimaryfontDefaultDefaultTightFontWeight;
 extern float const TypographyPrimaryfontDefaultSmallFontWeight;
+extern float const TypographyPrimaryfontDefaultMediumTightFontWeight;
+extern float const TypographyPrimaryfontDefaultDefaultTightFontWeight;
 extern float const TypographyPrimaryfontContrastXxxlargeFontWeight;
 extern float const TypographyPrimaryfontContrastXxlargeFontWeight;
 extern float const TypographyPrimaryfontContrastXlargeFontWeight;
@@ -27,6 +29,9 @@ extern float const TypographyPrimaryfontContrastMediumTightFontWeight;
 extern float const TypographyPrimaryfontContrastDefaultRootFontWeight;
 extern float const TypographyPrimaryfontContrastDefaultTightFontWeight;
 extern float const TypographyPrimaryfontContrastSmallFontWeight;
+extern float const TypographyPrimaryfontContrastMediumTightFontWeight;
+extern float const TypographyPrimaryfontContrastDefaultFontWeight;
+extern float const TypographyPrimaryfontContrastDefaultTightFontWeight;
 extern float const TypographySecondaryDefaultXxxlargeFontWeight;
 extern float const TypographySecondaryDefaultXxlargeFontWeight;
 extern float const TypographySecondaryDefaultXlargeFontWeight;
