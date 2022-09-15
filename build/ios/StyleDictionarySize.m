@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:19:23 GMT
+// Generated on Thu, 15 Sep 2022 12:22:34 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -52,7 +52,11 @@ float const TypographySecondaryContrastSmallFontWeight = 700;
 float const TypographyFontvariantsSmallcapsFontWeight = 400;
 float const TypographyFontvariantsTinyTextContrastFontWeight = 700;
 float const TypographyFontvariantsTinyTextDefaultFontWeight = 400;
+float const TypographyFontvariantsTinytextContrastFontWeight = 600;
+float const TypographyFontvariantsTinytextDefaultFontWeight = 400;
 float const TypographyLinkDefaultFontWeight = 400;
+float const TypographyLinkDefaultTightFontWeight = 400;
+float const TypographyLinkDefaultSmallFontWeight = 400;
 float const TypographyLinkDefaultTightFontWeight = 400;
 float const TypographyLinkDefaultSmallFontWeight = 400;
 float const TypographySecondaryfontDefaultXxxlargeFontWeight = 400;
@@ -63,6 +67,7 @@ float const TypographySecondaryfontDefaultMediumFontWeight = 400;
 float const TypographySecondaryfontDefaultMediumTightFontWeight = 400;
 float const TypographySecondaryfontDefaultDefaultFontWeight = 400;
 float const TypographySecondaryfontDefaultSmallFontWeight = 400;
+float const TypographySecondaryfontDefaultMediumTightFontWeight = 400;
 float const TypographySecondaryfontContrastXxxlargeFontWeight = 500;
 float const TypographySecondaryfontContrastXxlargeFontWeight = 500;
 float const TypographySecondaryfontContrastXlargeFontWeight = 500;
@@ -71,6 +76,7 @@ float const TypographySecondaryfontContrastMediumFontWeight = 500;
 float const TypographySecondaryfontContrastMediumTightFontWeight = 500;
 float const TypographySecondaryfontContrastDefaultFontWeight = 500;
 float const TypographySecondaryfontContrastSmallFontWeight = 500;
+float const TypographySecondaryfontContrastMediumTightFontWeight = 700;
 float const TypographyVariantsSmallcapsFontWeight = 300;
 float const TypographyVariantsTinyTextContrastFontWeight = 300;
 float const TypographyVariantsTinyTextDefaultFontWeight = 300;

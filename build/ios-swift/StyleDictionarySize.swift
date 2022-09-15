@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:19:24 GMT
+// Generated on Thu, 15 Sep 2022 12:22:34 GMT
 
 
 import UIKit
@@ -13,8 +13,12 @@ public enum StyleDictionarySize {
     public static let fontvariantsSmallcapsFontWeight = 400
     public static let fontvariantsTinyTextContrastFontWeight = 700
     public static let fontvariantsTinyTextDefaultFontWeight = 400
+    public static let fontvariantsTinytextContrastFontWeight = 600
+    public static let fontvariantsTinytextDefaultFontWeight = 400
     public static let linkDefaultFontWeight = 400
     public static let linkDefaultSmallFontWeight = 400
+    public static let linkDefaultSmallFontWeight = 400
+    public static let linkDefaultTightFontWeight = 400
     public static let linkDefaultTightFontWeight = 400
     public static let linksDefaultFontWeight = 300
     public static let linksDefaultSmallFontWeight = 300
@@ -62,6 +66,7 @@ public enum StyleDictionarySize {
     public static let secondaryfontContrastLargeFontWeight = 500
     public static let secondaryfontContrastMediumFontWeight = 500
     public static let secondaryfontContrastMediumTightFontWeight = 500
+    public static let secondaryfontContrastMediumTightFontWeight = 700
     public static let secondaryfontContrastSmallFontWeight = 500
     public static let secondaryfontContrastXlargeFontWeight = 500
     public static let secondaryfontContrastXxlargeFontWeight = 500
@@ -69,6 +74,7 @@ public enum StyleDictionarySize {
     public static let secondaryfontDefaultDefaultFontWeight = 400
     public static let secondaryfontDefaultLargeFontWeight = 400
     public static let secondaryfontDefaultMediumFontWeight = 400
+    public static let secondaryfontDefaultMediumTightFontWeight = 400
     public static let secondaryfontDefaultMediumTightFontWeight = 400
     public static let secondaryfontDefaultSmallFontWeight = 400
     public static let secondaryfontDefaultXlargeFontWeight = 400

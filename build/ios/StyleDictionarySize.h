@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:19:23 GMT
+// Generated on Thu, 15 Sep 2022 12:22:34 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -51,7 +51,11 @@ extern float const TypographySecondaryContrastSmallFontWeight;
 extern float const TypographyFontvariantsSmallcapsFontWeight;
 extern float const TypographyFontvariantsTinyTextContrastFontWeight;
 extern float const TypographyFontvariantsTinyTextDefaultFontWeight;
+extern float const TypographyFontvariantsTinytextContrastFontWeight;
+extern float const TypographyFontvariantsTinytextDefaultFontWeight;
 extern float const TypographyLinkDefaultFontWeight;
+extern float const TypographyLinkDefaultTightFontWeight;
+extern float const TypographyLinkDefaultSmallFontWeight;
 extern float const TypographyLinkDefaultTightFontWeight;
 extern float const TypographyLinkDefaultSmallFontWeight;
 extern float const TypographySecondaryfontDefaultXxxlargeFontWeight;
@@ -62,6 +66,7 @@ extern float const TypographySecondaryfontDefaultMediumFontWeight;
 extern float const TypographySecondaryfontDefaultMediumTightFontWeight;
 extern float const TypographySecondaryfontDefaultDefaultFontWeight;
 extern float const TypographySecondaryfontDefaultSmallFontWeight;
+extern float const TypographySecondaryfontDefaultMediumTightFontWeight;
 extern float const TypographySecondaryfontContrastXxxlargeFontWeight;
 extern float const TypographySecondaryfontContrastXxlargeFontWeight;
 extern float const TypographySecondaryfontContrastXlargeFontWeight;
@@ -70,6 +75,7 @@ extern float const TypographySecondaryfontContrastMediumFontWeight;
 extern float const TypographySecondaryfontContrastMediumTightFontWeight;
 extern float const TypographySecondaryfontContrastDefaultFontWeight;
 extern float const TypographySecondaryfontContrastSmallFontWeight;
+extern float const TypographySecondaryfontContrastMediumTightFontWeight;
 extern float const TypographyVariantsSmallcapsFontWeight;
 extern float const TypographyVariantsTinyTextContrastFontWeight;
 extern float const TypographyVariantsTinyTextDefaultFontWeight;
