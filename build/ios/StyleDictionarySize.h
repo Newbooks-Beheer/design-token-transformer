@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:24:25 GMT
+// Generated on Thu, 15 Sep 2022 12:25:45 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -66,7 +66,6 @@ extern float const TypographySecondaryfontDefaultMediumFontWeight;
 extern float const TypographySecondaryfontDefaultMediumTightFontWeight;
 extern float const TypographySecondaryfontDefaultDefaultFontWeight;
 extern float const TypographySecondaryfontDefaultSmallFontWeight;
-extern float const TypographySecondaryfontDefaultMediumTightFontWeight;
 extern float const TypographySecondaryfontContrastXxxlargeFontWeight;
 extern float const TypographySecondaryfontContrastXxlargeFontWeight;
 extern float const TypographySecondaryfontContrastXlargeFontWeight;
@@ -75,10 +74,6 @@ extern float const TypographySecondaryfontContrastMediumFontWeight;
 extern float const TypographySecondaryfontContrastMediumTightFontWeight;
 extern float const TypographySecondaryfontContrastDefaultFontWeight;
 extern float const TypographySecondaryfontContrastSmallFontWeight;
-extern float const TypographySecondaryfontContrastMediumTightFontWeight;
 extern float const TypographyVariantsSmallcapsFontWeight;
-extern float const TypographyVariantsTinyTextContrastFontWeight;
-extern float const TypographyVariantsTinyTextDefaultFontWeight;
-extern float const TypographyLinksDefaultFontWeight;
-extern float const TypographyLinksDefaultTightFontWeight;
-extern float const TypographyLinksDefaultSmallFontWeight;
+extern float const TypographyVariantsTinytextContrastFontWeight;
+extern float const TypographyVariantsTinytextDefaultFontWeight;

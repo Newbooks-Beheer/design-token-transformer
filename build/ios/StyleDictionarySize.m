@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:24:25 GMT
+// Generated on Thu, 15 Sep 2022 12:25:45 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -15,9 +15,9 @@ float const TypographyPrimaryfontDefaultXxlargeFontWeight = 400;
 float const TypographyPrimaryfontDefaultXlargeFontWeight = 400;
 float const TypographyPrimaryfontDefaultLargeFontWeight = 400;
 float const TypographyPrimaryfontDefaultMediumFontWeight = 400;
-float const TypographyPrimaryfontDefaultMediumTightFontWeight = 300;
+float const TypographyPrimaryfontDefaultMediumTightFontWeight = 400;
 float const TypographyPrimaryfontDefaultDefaultFontWeight = 400;
-float const TypographyPrimaryfontDefaultDefaultTightFontWeight = 300;
+float const TypographyPrimaryfontDefaultDefaultTightFontWeight = 400;
 float const TypographyPrimaryfontDefaultSmallFontWeight = 400;
 float const TypographyPrimaryfontDefaultMediumTightFontWeight = 400;
 float const TypographyPrimaryfontDefaultDefaultTightFontWeight = 400;
@@ -26,9 +26,9 @@ float const TypographyPrimaryfontContrastXxlargeFontWeight = 700;
 float const TypographyPrimaryfontContrastXlargeFontWeight = 700;
 float const TypographyPrimaryfontContrastLargeFontWeight = 700;
 float const TypographyPrimaryfontContrastMediumFontWeight = 700;
-float const TypographyPrimaryfontContrastMediumTightFontWeight = 500;
-float const TypographyPrimaryfontContrastDefaultRootFontWeight = 500;
-float const TypographyPrimaryfontContrastDefaultTightFontWeight = 500;
+float const TypographyPrimaryfontContrastMediumTightFontWeight = 700;
+float const TypographyPrimaryfontContrastDefaultRootFontWeight = 700;
+float const TypographyPrimaryfontContrastDefaultTightFontWeight = 700;
 float const TypographyPrimaryfontContrastSmallFontWeight = 700;
 float const TypographyPrimaryfontContrastMediumTightFontWeight = 700;
 float const TypographyPrimaryfontContrastDefaultFontWeight = 700;
@@ -64,22 +64,17 @@ float const TypographySecondaryfontDefaultXxlargeFontWeight = 400;
 float const TypographySecondaryfontDefaultXlargeFontWeight = 400;
 float const TypographySecondaryfontDefaultLargeFontWeight = 400;
 float const TypographySecondaryfontDefaultMediumFontWeight = 400;
-float const TypographySecondaryfontDefaultMediumTightFontWeight = 500;
+float const TypographySecondaryfontDefaultMediumTightFontWeight = 400;
 float const TypographySecondaryfontDefaultDefaultFontWeight = 400;
 float const TypographySecondaryfontDefaultSmallFontWeight = 400;
-float const TypographySecondaryfontDefaultMediumTightFontWeight = 400;
 float const TypographySecondaryfontContrastXxxlargeFontWeight = 500;
 float const TypographySecondaryfontContrastXxlargeFontWeight = 500;
 float const TypographySecondaryfontContrastXlargeFontWeight = 500;
 float const TypographySecondaryfontContrastLargeFontWeight = 500;
 float const TypographySecondaryfontContrastMediumFontWeight = 500;
-float const TypographySecondaryfontContrastMediumTightFontWeight = 700;
+float const TypographySecondaryfontContrastMediumTightFontWeight = 500;
 float const TypographySecondaryfontContrastDefaultFontWeight = 500;
 float const TypographySecondaryfontContrastSmallFontWeight = 500;
-float const TypographySecondaryfontContrastMediumTightFontWeight = 500;
 float const TypographyVariantsSmallcapsFontWeight = 300;
-float const TypographyVariantsTinyTextContrastFontWeight = 300;
-float const TypographyVariantsTinyTextDefaultFontWeight = 300;
-float const TypographyLinksDefaultFontWeight = 300;
-float const TypographyLinksDefaultTightFontWeight = 300;
-float const TypographyLinksDefaultSmallFontWeight = 300;
+float const TypographyVariantsTinytextContrastFontWeight = 300;
+float const TypographyVariantsTinytextDefaultFontWeight = 300;
