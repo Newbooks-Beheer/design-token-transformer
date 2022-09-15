@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:53:52 GMT
+// Generated on Thu, 15 Sep 2022 09:55:06 GMT
 
 
 import UIKit
@@ -19,24 +19,6 @@ public enum StyleDictionarySize {
     public static let linksDefaultFontWeight = 400
     public static let linksDefaultSmallFontWeight = 400
     public static let linksDefaultTightFontWeight = 400
-    public static let primaryContrastDefaultRootFontWeight = 700
-    public static let primaryContrastDefaultTightFontWeight = 700
-    public static let primaryContrastLargeFontWeight = 700
-    public static let primaryContrastMediumFontWeight = 700
-    public static let primaryContrastMediumTightFontWeight = 700
-    public static let primaryContrastSmallFontWeight = 700
-    public static let primaryContrastXlargeFontWeight = 700
-    public static let primaryContrastXxlargeFontWeight = 700
-    public static let primaryContrastXxxlargeFontWeight = 700
-    public static let primaryDefaultDefaultFontWeight = 400
-    public static let primaryDefaultDefaultTightFontWeight = 400
-    public static let primaryDefaultLargeFontWeight = 400
-    public static let primaryDefaultMediumFontWeight = 400
-    public static let primaryDefaultMediumTightFontWeight = 400
-    public static let primaryDefaultSmallFontWeight = 400
-    public static let primaryDefaultXlargeFontWeight = 400
-    public static let primaryDefaultXxlargeFontWeight = 400
-    public static let primaryDefaultXxxlargeFontWeight = 400
     public static let primaryfontContrastDefaultRootFontWeight = 700
     public static let primaryfontContrastDefaultTightFontWeight = 700
     public static let primaryfontContrastLargeFontWeight = 700

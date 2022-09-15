@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 09:53:52 GMT
+// Generated on Thu, 15 Sep 2022 09:55:06 GMT
 
 
 import UIKit
@@ -95,7 +95,7 @@ public enum StyleDictionaryColor {
     public static let settingsOverlay = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 0.8)
     public static let settingsPlaceholder = UIColor(red: 0.016, green: 0.192, blue: 0.416, alpha: 1)
     public static let textBlack = UIColor(red: 0.263, green: 0.310, blue: 0.345, alpha: 1)
-    public static let textCta = UIColor(red: 0.016, green: 0.443, blue: 0.663, alpha: 1)
+    public static let textCta = UIColor(red: 0.000, green: 0.412, blue: 1.000, alpha: 1)
     public static let textDanger = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
     public static let textError = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let textGrey = UIColor(red: 0.624, green: 0.671, blue: 0.710, alpha: 1)
