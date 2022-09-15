@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Sep 2022 12:22:34 GMT
+// Generated on Thu, 15 Sep 2022 12:24:25 GMT
 
 
 import UIKit
@@ -158,7 +158,7 @@ public class StyleDictionary {
     public static let typographyFontvariantsSmallcapsParagraphSpacing = 0
     public static let typographyFontvariantsSmallcapsTextCase = uppercase
     public static let typographyFontvariantsSmallcapsTextDecoration = none
-    public static let typographyFontvariantsTinyTextContrastFontFamily = Open Sans
+    public static let typographyFontvariantsTinyTextContrastFontFamily = Lato
     public static let typographyFontvariantsTinyTextContrastFontSize = 11
     public static let typographyFontvariantsTinyTextContrastFontStretch = normal
     public static let typographyFontvariantsTinyTextContrastFontStyle = normal
@@ -169,7 +169,7 @@ public class StyleDictionary {
     public static let typographyFontvariantsTinyTextContrastParagraphSpacing = 0
     public static let typographyFontvariantsTinyTextContrastTextCase = none
     public static let typographyFontvariantsTinyTextContrastTextDecoration = none
-    public static let typographyFontvariantsTinyTextDefaultFontFamily = Open Sans
+    public static let typographyFontvariantsTinyTextDefaultFontFamily = Lato
     public static let typographyFontvariantsTinyTextDefaultFontSize = 11
     public static let typographyFontvariantsTinyTextDefaultFontStretch = normal
     public static let typographyFontvariantsTinyTextDefaultFontStyle = normal
@@ -180,18 +180,18 @@ public class StyleDictionary {
     public static let typographyFontvariantsTinyTextDefaultParagraphSpacing = 0
     public static let typographyFontvariantsTinyTextDefaultTextCase = none
     public static let typographyFontvariantsTinyTextDefaultTextDecoration = none
-    public static let typographyFontvariantsTinytextContrastFontFamily = Work Sans
+    public static let typographyFontvariantsTinytextContrastFontFamily = Open Sans
     public static let typographyFontvariantsTinytextContrastFontSize = 11
     public static let typographyFontvariantsTinytextContrastFontStretch = normal
     public static let typographyFontvariantsTinytextContrastFontStyle = normal
-    public static let typographyFontvariantsTinytextContrastFontWeight = 600
+    public static let typographyFontvariantsTinytextContrastFontWeight = 700
     public static let typographyFontvariantsTinytextContrastLetterSpacing = 0
     public static let typographyFontvariantsTinytextContrastLineHeight = 14
     public static let typographyFontvariantsTinytextContrastParagraphIndent = 0
     public static let typographyFontvariantsTinytextContrastParagraphSpacing = 0
     public static let typographyFontvariantsTinytextContrastTextCase = none
     public static let typographyFontvariantsTinytextContrastTextDecoration = none
-    public static let typographyFontvariantsTinytextDefaultFontFamily = Work Sans
+    public static let typographyFontvariantsTinytextDefaultFontFamily = Open Sans
     public static let typographyFontvariantsTinytextDefaultFontSize = 11
     public static let typographyFontvariantsTinytextDefaultFontStretch = normal
     public static let typographyFontvariantsTinytextDefaultFontStyle = normal
@@ -211,8 +211,8 @@ public class StyleDictionary {
     public static let typographyLinkDefaultLineHeight = 28
     public static let typographyLinkDefaultParagraphIndent = 0
     public static let typographyLinkDefaultParagraphSpacing = 0
+    public static let typographyLinkDefaultSmallFontFamily = Lato
     public static let typographyLinkDefaultSmallFontFamily = Open Sans
-    public static let typographyLinkDefaultSmallFontFamily = Work Sans
     public static let typographyLinkDefaultSmallFontSize = 14
     public static let typographyLinkDefaultSmallFontSize = 14
     public static let typographyLinkDefaultSmallFontStretch = normal
@@ -235,8 +235,8 @@ public class StyleDictionary {
     public static let typographyLinkDefaultSmallTextDecoration = underline
     public static let typographyLinkDefaultTextCase = none
     public static let typographyLinkDefaultTextDecoration = underline
+    public static let typographyLinkDefaultTightFontFamily = Lato
     public static let typographyLinkDefaultTightFontFamily = Open Sans
-    public static let typographyLinkDefaultTightFontFamily = Work Sans
     public static let typographyLinkDefaultTightFontSize = 16
     public static let typographyLinkDefaultTightFontSize = 16
     public static let typographyLinkDefaultTightFontStretch = normal
@@ -290,20 +290,20 @@ public class StyleDictionary {
     public static let typographyLinksDefaultTightParagraphSpacing = 0
     public static let typographyLinksDefaultTightTextCase = none
     public static let typographyLinksDefaultTightTextDecoration = underline
-    public static let typographyPrimaryfontContrastDefaultFontFamily = Work Sans
+    public static let typographyPrimaryfontContrastDefaultFontFamily = Open Sans
     public static let typographyPrimaryfontContrastDefaultFontSize = 16
     public static let typographyPrimaryfontContrastDefaultFontStretch = normal
     public static let typographyPrimaryfontContrastDefaultFontStyle = normal
-    public static let typographyPrimaryfontContrastDefaultFontWeight = 600
+    public static let typographyPrimaryfontContrastDefaultFontWeight = 700
     public static let typographyPrimaryfontContrastDefaultLetterSpacing = 0
     public static let typographyPrimaryfontContrastDefaultLineHeight = 28
     public static let typographyPrimaryfontContrastDefaultParagraphIndent = 0
     public static let typographyPrimaryfontContrastDefaultParagraphSpacing = 14
-    public static let typographyPrimaryfontContrastDefaultRootFontFamily = Open Sans
+    public static let typographyPrimaryfontContrastDefaultRootFontFamily = Sofia Pro
     public static let typographyPrimaryfontContrastDefaultRootFontSize = 16
     public static let typographyPrimaryfontContrastDefaultRootFontStretch = normal
     public static let typographyPrimaryfontContrastDefaultRootFontStyle = normal
-    public static let typographyPrimaryfontContrastDefaultRootFontWeight = 700
+    public static let typographyPrimaryfontContrastDefaultRootFontWeight = 500
     public static let typographyPrimaryfontContrastDefaultRootLetterSpacing = 0
     public static let typographyPrimaryfontContrastDefaultRootLineHeight = 28
     public static let typographyPrimaryfontContrastDefaultRootParagraphIndent = 0
@@ -312,16 +312,16 @@ public class StyleDictionary {
     public static let typographyPrimaryfontContrastDefaultRootTextDecoration = none
     public static let typographyPrimaryfontContrastDefaultTextCase = none
     public static let typographyPrimaryfontContrastDefaultTextDecoration = none
+    public static let typographyPrimaryfontContrastDefaultTightFontFamily = Sofia Pro
     public static let typographyPrimaryfontContrastDefaultTightFontFamily = Open Sans
-    public static let typographyPrimaryfontContrastDefaultTightFontFamily = Work Sans
     public static let typographyPrimaryfontContrastDefaultTightFontSize = 16
     public static let typographyPrimaryfontContrastDefaultTightFontSize = 16
     public static let typographyPrimaryfontContrastDefaultTightFontStretch = normal
     public static let typographyPrimaryfontContrastDefaultTightFontStretch = normal
     public static let typographyPrimaryfontContrastDefaultTightFontStyle = normal
     public static let typographyPrimaryfontContrastDefaultTightFontStyle = normal
+    public static let typographyPrimaryfontContrastDefaultTightFontWeight = 500
     public static let typographyPrimaryfontContrastDefaultTightFontWeight = 700
-    public static let typographyPrimaryfontContrastDefaultTightFontWeight = 600
     public static let typographyPrimaryfontContrastDefaultTightLetterSpacing = 0
     public static let typographyPrimaryfontContrastDefaultTightLetterSpacing = 0
     public static let typographyPrimaryfontContrastDefaultTightLineHeight = 21
@@ -356,16 +356,16 @@ public class StyleDictionary {
     public static let typographyPrimaryfontContrastMediumParagraphSpacing = 0
     public static let typographyPrimaryfontContrastMediumTextCase = none
     public static let typographyPrimaryfontContrastMediumTextDecoration = none
+    public static let typographyPrimaryfontContrastMediumTightFontFamily = Sofia Pro
     public static let typographyPrimaryfontContrastMediumTightFontFamily = Open Sans
-    public static let typographyPrimaryfontContrastMediumTightFontFamily = Work Sans
     public static let typographyPrimaryfontContrastMediumTightFontSize = 23
     public static let typographyPrimaryfontContrastMediumTightFontSize = 23
     public static let typographyPrimaryfontContrastMediumTightFontStretch = normal
     public static let typographyPrimaryfontContrastMediumTightFontStretch = normal
     public static let typographyPrimaryfontContrastMediumTightFontStyle = normal
     public static let typographyPrimaryfontContrastMediumTightFontStyle = normal
+    public static let typographyPrimaryfontContrastMediumTightFontWeight = 500
     public static let typographyPrimaryfontContrastMediumTightFontWeight = 700
-    public static let typographyPrimaryfontContrastMediumTightFontWeight = 600
     public static let typographyPrimaryfontContrastMediumTightLetterSpacing = 0
     public static let typographyPrimaryfontContrastMediumTightLetterSpacing = 0
     public static let typographyPrimaryfontContrastMediumTightLineHeight = 28
@@ -433,15 +433,15 @@ public class StyleDictionary {
     public static let typographyPrimaryfontDefaultDefaultParagraphSpacing = 14
     public static let typographyPrimaryfontDefaultDefaultTextCase = none
     public static let typographyPrimaryfontDefaultDefaultTextDecoration = none
+    public static let typographyPrimaryfontDefaultDefaultTightFontFamily = Sofia Pro
     public static let typographyPrimaryfontDefaultDefaultTightFontFamily = Open Sans
-    public static let typographyPrimaryfontDefaultDefaultTightFontFamily = Work Sans
     public static let typographyPrimaryfontDefaultDefaultTightFontSize = 16
     public static let typographyPrimaryfontDefaultDefaultTightFontSize = 16
     public static let typographyPrimaryfontDefaultDefaultTightFontStretch = normal
     public static let typographyPrimaryfontDefaultDefaultTightFontStretch = normal
     public static let typographyPrimaryfontDefaultDefaultTightFontStyle = normal
     public static let typographyPrimaryfontDefaultDefaultTightFontStyle = normal
-    public static let typographyPrimaryfontDefaultDefaultTightFontWeight = 400
+    public static let typographyPrimaryfontDefaultDefaultTightFontWeight = 300
     public static let typographyPrimaryfontDefaultDefaultTightFontWeight = 400
     public static let typographyPrimaryfontDefaultDefaultTightLetterSpacing = 0
     public static let typographyPrimaryfontDefaultDefaultTightLetterSpacing = 0
@@ -477,15 +477,15 @@ public class StyleDictionary {
     public static let typographyPrimaryfontDefaultMediumParagraphSpacing = 0
     public static let typographyPrimaryfontDefaultMediumTextCase = none
     public static let typographyPrimaryfontDefaultMediumTextDecoration = none
+    public static let typographyPrimaryfontDefaultMediumTightFontFamily = Sofia Pro
     public static let typographyPrimaryfontDefaultMediumTightFontFamily = Open Sans
-    public static let typographyPrimaryfontDefaultMediumTightFontFamily = Work Sans
     public static let typographyPrimaryfontDefaultMediumTightFontSize = 23
     public static let typographyPrimaryfontDefaultMediumTightFontSize = 23
     public static let typographyPrimaryfontDefaultMediumTightFontStretch = normal
     public static let typographyPrimaryfontDefaultMediumTightFontStretch = normal
     public static let typographyPrimaryfontDefaultMediumTightFontStyle = normal
     public static let typographyPrimaryfontDefaultMediumTightFontStyle = normal
-    public static let typographyPrimaryfontDefaultMediumTightFontWeight = 400
+    public static let typographyPrimaryfontDefaultMediumTightFontWeight = 300
     public static let typographyPrimaryfontDefaultMediumTightFontWeight = 400
     public static let typographyPrimaryfontDefaultMediumTightLetterSpacing = 0
     public static let typographyPrimaryfontDefaultMediumTightLetterSpacing = 0
@@ -752,16 +752,16 @@ public class StyleDictionary {
     public static let typographySecondaryfontContrastMediumParagraphSpacing = 0
     public static let typographySecondaryfontContrastMediumTextCase = none
     public static let typographySecondaryfontContrastMediumTextDecoration = none
+    public static let typographySecondaryfontContrastMediumTightFontFamily = Queulat
     public static let typographySecondaryfontContrastMediumTightFontFamily = Filson Pro
-    public static let typographySecondaryfontContrastMediumTightFontFamily = IBM Plex Serif
     public static let typographySecondaryfontContrastMediumTightFontSize = 23
     public static let typographySecondaryfontContrastMediumTightFontSize = 23
     public static let typographySecondaryfontContrastMediumTightFontStretch = normal
     public static let typographySecondaryfontContrastMediumTightFontStretch = normal
     public static let typographySecondaryfontContrastMediumTightFontStyle = normal
     public static let typographySecondaryfontContrastMediumTightFontStyle = normal
-    public static let typographySecondaryfontContrastMediumTightFontWeight = 500
     public static let typographySecondaryfontContrastMediumTightFontWeight = 700
+    public static let typographySecondaryfontContrastMediumTightFontWeight = 500
     public static let typographySecondaryfontContrastMediumTightLetterSpacing = 0
     public static let typographySecondaryfontContrastMediumTightLetterSpacing = 0
     public static let typographySecondaryfontContrastMediumTightLineHeight = 28
@@ -851,15 +851,15 @@ public class StyleDictionary {
     public static let typographySecondaryfontDefaultMediumParagraphSpacing = 0
     public static let typographySecondaryfontDefaultMediumTextCase = none
     public static let typographySecondaryfontDefaultMediumTextDecoration = none
+    public static let typographySecondaryfontDefaultMediumTightFontFamily = Queulat
     public static let typographySecondaryfontDefaultMediumTightFontFamily = Filson Pro
-    public static let typographySecondaryfontDefaultMediumTightFontFamily = IBM Plex Serif
     public static let typographySecondaryfontDefaultMediumTightFontSize = 23
     public static let typographySecondaryfontDefaultMediumTightFontSize = 23
     public static let typographySecondaryfontDefaultMediumTightFontStretch = normal
     public static let typographySecondaryfontDefaultMediumTightFontStretch = normal
     public static let typographySecondaryfontDefaultMediumTightFontStyle = normal
     public static let typographySecondaryfontDefaultMediumTightFontStyle = normal
-    public static let typographySecondaryfontDefaultMediumTightFontWeight = 400
+    public static let typographySecondaryfontDefaultMediumTightFontWeight = 500
     public static let typographySecondaryfontDefaultMediumTightFontWeight = 400
     public static let typographySecondaryfontDefaultMediumTightLetterSpacing = 0
     public static let typographySecondaryfontDefaultMediumTightLetterSpacing = 0
