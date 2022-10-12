@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Oct 2022 10:19:50 GMT
+// Generated on Wed, 12 Oct 2022 10:20:27 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -43,8 +43,8 @@ ColorBadgeSecondaryBackground,
 ColorBadgeSecondaryText,
 ColorBadgePrimaryBackground,
 ColorBadgePrimaryText,
-ColorBadgeNeutralText,
 ColorBadgeNeutralBackground,
+ColorBadgeNeutralText,
 ColorUiActive,
 ColorUiFocus,
 ColorUiInfoStrong,
