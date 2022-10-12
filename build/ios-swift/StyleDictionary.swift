@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 19 Sep 2022 07:35:36 GMT
+// Generated on Wed, 12 Oct 2022 10:19:50 GMT
 
 
 import UIKit
@@ -14,6 +14,8 @@ public class StyleDictionary {
     public static let colorBadgeBlockCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeBlockHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeBlockText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
+    public static let colorBadgeNeutralBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
+    public static let colorBadgeNeutralText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorBadgePriceBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
     public static let colorBadgePriceText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorBadgePrimaryBackground = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
