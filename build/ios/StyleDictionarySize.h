@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 17 Oct 2022 09:10:27 GMT
+// Generated on Mon, 17 Oct 2022 09:50:55 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -27,6 +27,28 @@ extern float const TypographyPrimaryfontContrastMediumTightFontWeight;
 extern float const TypographyPrimaryfontContrastDefaultFontWeight;
 extern float const TypographyPrimaryfontContrastDefaultTightFontWeight;
 extern float const TypographyPrimaryfontContrastSmallFontWeight;
+extern float const TypographySecondaryDefaultXxxlargeFontWeight;
+extern float const TypographySecondaryDefaultXxlargeFontWeight;
+extern float const TypographySecondaryDefaultXlargeFontWeight;
+extern float const TypographySecondaryDefaultLargeFontWeight;
+extern float const TypographySecondaryDefaultMediumFontWeight;
+extern float const TypographySecondaryDefaultMediumTightFontWeight;
+extern float const TypographySecondaryDefaultDefaultFontWeight;
+extern float const TypographySecondaryDefaultSmallFontWeight;
+extern float const TypographySecondaryContrastXxxlargeFontWeight;
+extern float const TypographySecondaryContrastXxlargeFontWeight;
+extern float const TypographySecondaryContrastXlargeFontWeight;
+extern float const TypographySecondaryContrastLargeFontWeight;
+extern float const TypographySecondaryContrastMediumFontWeight;
+extern float const TypographySecondaryContrastMediumTightFontWeight;
+extern float const TypographySecondaryContrastDefaultFontWeight;
+extern float const TypographySecondaryContrastSmallFontWeight;
+extern float const TypographyFontvariantsSmallcapsFontWeight;
+extern float const TypographyFontvariantsTinytextContrastFontWeight;
+extern float const TypographyFontvariantsTinytextDefaultFontWeight;
+extern float const TypographyLinkDefaultFontWeight;
+extern float const TypographyLinkDefaultTightFontWeight;
+extern float const TypographyLinkDefaultSmallFontWeight;
 extern float const TypographySecondaryfontDefaultXxxlargeFontWeight;
 extern float const TypographySecondaryfontDefaultXxlargeFontWeight;
 extern float const TypographySecondaryfontDefaultXlargeFontWeight;
@@ -46,9 +68,3 @@ extern float const TypographySecondaryfontContrastSmallFontWeight;
 extern float const TypographyVariantsSmallcapsFontWeight;
 extern float const TypographyVariantsTinytextContrastFontWeight;
 extern float const TypographyVariantsTinytextDefaultFontWeight;
-extern float const TypographyLinkDefaultFontWeight;
-extern float const TypographyLinkDefaultTightFontWeight;
-extern float const TypographyLinkDefaultSmallFontWeight;
-extern float const TypographyFontvariantsSmallcapsFontWeight;
-extern float const TypographyFontvariantsTinytextContrastFontWeight;
-extern float const TypographyFontvariantsTinytextDefaultFontWeight;

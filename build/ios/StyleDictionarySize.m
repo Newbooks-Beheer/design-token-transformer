@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 17 Oct 2022 09:10:27 GMT
+// Generated on Mon, 17 Oct 2022 09:50:55 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -28,6 +28,28 @@ float const TypographyPrimaryfontContrastMediumTightFontWeight = 700;
 float const TypographyPrimaryfontContrastDefaultFontWeight = 700;
 float const TypographyPrimaryfontContrastDefaultTightFontWeight = 700;
 float const TypographyPrimaryfontContrastSmallFontWeight = 700;
+float const TypographySecondaryDefaultXxxlargeFontWeight = 400;
+float const TypographySecondaryDefaultXxlargeFontWeight = 400;
+float const TypographySecondaryDefaultXlargeFontWeight = 400;
+float const TypographySecondaryDefaultLargeFontWeight = 400;
+float const TypographySecondaryDefaultMediumFontWeight = 400;
+float const TypographySecondaryDefaultMediumTightFontWeight = 400;
+float const TypographySecondaryDefaultDefaultFontWeight = 400;
+float const TypographySecondaryDefaultSmallFontWeight = 400;
+float const TypographySecondaryContrastXxxlargeFontWeight = 700;
+float const TypographySecondaryContrastXxlargeFontWeight = 700;
+float const TypographySecondaryContrastXlargeFontWeight = 700;
+float const TypographySecondaryContrastLargeFontWeight = 700;
+float const TypographySecondaryContrastMediumFontWeight = 700;
+float const TypographySecondaryContrastMediumTightFontWeight = 700;
+float const TypographySecondaryContrastDefaultFontWeight = 700;
+float const TypographySecondaryContrastSmallFontWeight = 700;
+float const TypographyFontvariantsSmallcapsFontWeight = 400;
+float const TypographyFontvariantsTinytextContrastFontWeight = 700;
+float const TypographyFontvariantsTinytextDefaultFontWeight = 400;
+float const TypographyLinkDefaultFontWeight = 400;
+float const TypographyLinkDefaultTightFontWeight = 400;
+float const TypographyLinkDefaultSmallFontWeight = 400;
 float const TypographySecondaryfontDefaultXxxlargeFontWeight = 400;
 float const TypographySecondaryfontDefaultXxlargeFontWeight = 400;
 float const TypographySecondaryfontDefaultXlargeFontWeight = 400;
@@ -47,9 +69,3 @@ float const TypographySecondaryfontContrastSmallFontWeight = 500;
 float const TypographyVariantsSmallcapsFontWeight = 300;
 float const TypographyVariantsTinytextContrastFontWeight = 300;
 float const TypographyVariantsTinytextDefaultFontWeight = 300;
-float const TypographyLinkDefaultFontWeight = 400;
-float const TypographyLinkDefaultTightFontWeight = 400;
-float const TypographyLinkDefaultSmallFontWeight = 400;
-float const TypographyFontvariantsSmallcapsFontWeight = 400;
-float const TypographyFontvariantsTinytextContrastFontWeight = 700;
-float const TypographyFontvariantsTinytextDefaultFontWeight = 400;
