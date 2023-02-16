@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 26 Jan 2023 10:43:52 GMT
+// Generated on Thu, 16 Feb 2023 08:55:42 GMT
 
 
 import UIKit
@@ -49,12 +49,27 @@ public class StyleDictionary {
     public static let colorBrandTertiary = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let colorBrandWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorButtonPrimaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonPrimaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let colorButtonPrimaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonPrimaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonPrimaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
     public static let colorButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorButtonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonSecondaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
+    public static let colorButtonSecondaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonSecondaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonSecondaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
     public static let colorButtonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
+    public static let colorButtonTertiaryBackgroundactive = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
+    public static let colorButtonTertiaryBackgroundfocus = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
+    public static let colorButtonTertiaryBackgroundhover = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
+    public static let colorButtonTertiaryFocusring = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
     public static let colorButtonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let colorButtonTextColor = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonTextColoractive = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonTextColorfocus = UIColor(red: 0.722, green: 0.086, blue: 0.180, alpha: 1)
+    public static let colorButtonTextColorhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
     public static let colorFormCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorFormCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

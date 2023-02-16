@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 26 Jan 2023 10:43:52 GMT
+// Generated on Thu, 16 Feb 2023 08:55:42 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -107,11 +107,26 @@ ColorFormRadioActive,
 ColorFormInputBorder,
 ColorButtonPrimaryBackground,
 ColorButtonPrimaryText,
+ColorButtonPrimaryBackgroundhover,
+ColorButtonPrimaryBackgroundactive,
+ColorButtonPrimaryBackgroundfocus,
+ColorButtonPrimaryFocusring,
 ColorButtonSecondaryBackground,
 ColorButtonSecondaryText,
+ColorButtonSecondaryBackgroundhover,
+ColorButtonSecondaryBackgroundactive,
+ColorButtonSecondaryBackgroundfocus,
+ColorButtonSecondaryFocusring,
 ColorButtonTertiaryBackground,
 ColorButtonTertiaryText,
+ColorButtonTertiaryBackgroundhover,
+ColorButtonTertiaryBackgroundactive,
+ColorButtonTertiaryBackgroundfocus,
+ColorButtonTertiaryFocusring,
 ColorButtonTextColor,
+ColorButtonTextColorhover,
+ColorButtonTextColoractive,
+ColorButtonTextColorfocus,
 ColorIconDefault,
 ColorIconRatingActive,
 ColorIconRatingInactive,
