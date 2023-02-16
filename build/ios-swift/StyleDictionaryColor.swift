@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Feb 2023 08:55:42 GMT
+// Generated on Thu, 16 Feb 2023 08:56:27 GMT
 
 
 import UIKit
@@ -49,27 +49,27 @@ public enum StyleDictionaryColor {
     public static let brandTertiary = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let brandWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let buttonPrimaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonPrimaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let buttonPrimaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let buttonPrimaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let buttonPrimaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
+    public static let buttonPrimaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let buttonPrimaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonPrimaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonPrimaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let buttonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonSecondaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let buttonSecondaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let buttonSecondaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let buttonSecondaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
+    public static let buttonSecondaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let buttonSecondaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonSecondaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonSecondaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let buttonTertiaryBackgroundactive = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
-    public static let buttonTertiaryBackgroundfocus = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
-    public static let buttonTertiaryBackgroundhover = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
-    public static let buttonTertiaryFocusring = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let buttonTertiaryBackgroundfocus = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
+    public static let buttonTertiaryBackgroundhover = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
+    public static let buttonTertiaryFocusring = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let buttonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let buttonTextColor = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonTextColoractive = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let buttonTextColorfocus = UIColor(red: 0.722, green: 0.086, blue: 0.180, alpha: 1)
-    public static let buttonTextColorhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let buttonTextColoractive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let buttonTextColorfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonTextColorhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
     public static let formCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let formCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let formCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

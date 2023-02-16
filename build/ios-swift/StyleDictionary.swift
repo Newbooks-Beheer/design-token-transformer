@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Feb 2023 08:55:42 GMT
+// Generated on Thu, 16 Feb 2023 08:56:27 GMT
 
 
 import UIKit
@@ -49,27 +49,27 @@ public class StyleDictionary {
     public static let colorBrandTertiary = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let colorBrandWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorButtonPrimaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorButtonPrimaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let colorButtonPrimaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let colorButtonPrimaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let colorButtonPrimaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
+    public static let colorButtonPrimaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonPrimaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonPrimaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonPrimaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorButtonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorButtonSecondaryBackgroundactive = UIColor(red: 0.906, green: 0.192, blue: 0.298, alpha: 1)
-    public static let colorButtonSecondaryBackgroundfocus = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let colorButtonSecondaryBackgroundhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let colorButtonSecondaryFocusring = UIColor(red: 0.675, green: 0.086, blue: 0.173, alpha: 1)
+    public static let colorButtonSecondaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonSecondaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonSecondaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonSecondaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorButtonTertiaryBackgroundactive = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
-    public static let colorButtonTertiaryBackgroundfocus = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
-    public static let colorButtonTertiaryBackgroundhover = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
-    public static let colorButtonTertiaryFocusring = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let colorButtonTertiaryBackgroundfocus = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
+    public static let colorButtonTertiaryBackgroundhover = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
+    public static let colorButtonTertiaryFocusring = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorButtonTertiaryText = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
     public static let colorButtonTextColor = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorButtonTextColoractive = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
-    public static let colorButtonTextColorfocus = UIColor(red: 0.722, green: 0.086, blue: 0.180, alpha: 1)
-    public static let colorButtonTextColorhover = UIColor(red: 0.824, green: 0.102, blue: 0.208, alpha: 1)
+    public static let colorButtonTextColoractive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorButtonTextColorfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonTextColorhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
     public static let colorFormCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorFormCheckboxDisabledBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
     public static let colorFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -155,7 +155,7 @@ public class StyleDictionary {
     public static let colorUspbarIcon = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorUspbarIconcheck = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorUspbarText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let typographyFontvariantsSmallcapsFontFamily = Open Sans
+    public static let typographyFontvariantsSmallcapsFontFamily = Work Sans
     public static let typographyFontvariantsSmallcapsFontSize = 11
     public static let typographyFontvariantsSmallcapsFontStretch = normal
     public static let typographyFontvariantsSmallcapsFontStyle = normal
@@ -166,18 +166,18 @@ public class StyleDictionary {
     public static let typographyFontvariantsSmallcapsParagraphSpacing = 0
     public static let typographyFontvariantsSmallcapsTextCase = uppercase
     public static let typographyFontvariantsSmallcapsTextDecoration = none
-    public static let typographyFontvariantsTinytextContrastFontFamily = Open Sans
+    public static let typographyFontvariantsTinytextContrastFontFamily = Work Sans
     public static let typographyFontvariantsTinytextContrastFontSize = 11
     public static let typographyFontvariantsTinytextContrastFontStretch = normal
     public static let typographyFontvariantsTinytextContrastFontStyle = normal
-    public static let typographyFontvariantsTinytextContrastFontWeight = 700
+    public static let typographyFontvariantsTinytextContrastFontWeight = 600
     public static let typographyFontvariantsTinytextContrastLetterSpacing = 0
     public static let typographyFontvariantsTinytextContrastLineHeight = 14
     public static let typographyFontvariantsTinytextContrastParagraphIndent = 0
     public static let typographyFontvariantsTinytextContrastParagraphSpacing = 0
     public static let typographyFontvariantsTinytextContrastTextCase = none
     public static let typographyFontvariantsTinytextContrastTextDecoration = none
-    public static let typographyFontvariantsTinytextDefaultFontFamily = Open Sans
+    public static let typographyFontvariantsTinytextDefaultFontFamily = Work Sans
     public static let typographyFontvariantsTinytextDefaultFontSize = 11
     public static let typographyFontvariantsTinytextDefaultFontStretch = normal
     public static let typographyFontvariantsTinytextDefaultFontStyle = normal
@@ -771,33 +771,33 @@ public class StyleDictionary {
     public static let typographySecondaryfontDefaultXxxlargeParagraphSpacing = 0
     public static let typographySecondaryfontDefaultXxxlargeTextCase = none
     public static let typographySecondaryfontDefaultXxxlargeTextDecoration = none
-    public static let typographyVariantsSmallcapsFontFamily = Sofia Pro
+    public static let typographyVariantsSmallcapsFontFamily = Open Sans
     public static let typographyVariantsSmallcapsFontSize = 11
     public static let typographyVariantsSmallcapsFontStretch = normal
     public static let typographyVariantsSmallcapsFontStyle = normal
-    public static let typographyVariantsSmallcapsFontWeight = 300
+    public static let typographyVariantsSmallcapsFontWeight = 400
     public static let typographyVariantsSmallcapsLetterSpacing = 1.18
     public static let typographyVariantsSmallcapsLineHeight = 14
     public static let typographyVariantsSmallcapsParagraphIndent = 0
     public static let typographyVariantsSmallcapsParagraphSpacing = 0
     public static let typographyVariantsSmallcapsTextCase = uppercase
     public static let typographyVariantsSmallcapsTextDecoration = none
-    public static let typographyVariantsTinytextContrastFontFamily = Sofia Pro
+    public static let typographyVariantsTinytextContrastFontFamily = Open Sans
     public static let typographyVariantsTinytextContrastFontSize = 11
     public static let typographyVariantsTinytextContrastFontStretch = normal
     public static let typographyVariantsTinytextContrastFontStyle = normal
-    public static let typographyVariantsTinytextContrastFontWeight = 300
+    public static let typographyVariantsTinytextContrastFontWeight = 700
     public static let typographyVariantsTinytextContrastLetterSpacing = 0
     public static let typographyVariantsTinytextContrastLineHeight = 14
     public static let typographyVariantsTinytextContrastParagraphIndent = 0
     public static let typographyVariantsTinytextContrastParagraphSpacing = 0
     public static let typographyVariantsTinytextContrastTextCase = none
     public static let typographyVariantsTinytextContrastTextDecoration = none
-    public static let typographyVariantsTinytextDefaultFontFamily = Sofia Pro
+    public static let typographyVariantsTinytextDefaultFontFamily = Open Sans
     public static let typographyVariantsTinytextDefaultFontSize = 11
     public static let typographyVariantsTinytextDefaultFontStretch = normal
     public static let typographyVariantsTinytextDefaultFontStyle = normal
-    public static let typographyVariantsTinytextDefaultFontWeight = 300
+    public static let typographyVariantsTinytextDefaultFontWeight = 400
     public static let typographyVariantsTinytextDefaultLetterSpacing = 0
     public static let typographyVariantsTinytextDefaultLineHeight = 14
     public static let typographyVariantsTinytextDefaultParagraphIndent = 0
