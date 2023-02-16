@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Feb 2023 08:56:27 GMT
+// Generated on Thu, 16 Feb 2023 09:54:17 GMT
 
 
 import UIKit
@@ -148,6 +148,9 @@ public class StyleDictionary {
     public static let colorUiFocus = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorUiInfoPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorUiInfoStrong = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
+    public static let colorUiSuccess50 = UIColor(red: 0.886, green: 0.973, blue: 0.929, alpha: 1)
+    public static let colorUiSuccess500 = UIColor(red: 0.169, green: 0.694, blue: 0.431, alpha: 1)
+    public static let colorUiSuccess600 = UIColor(red: 0.129, green: 0.533, blue: 0.329, alpha: 1)
     public static let colorUiSuccessPale = UIColor(red: 0.886, green: 0.973, blue: 0.929, alpha: 1)
     public static let colorUiSuccessStrong = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorUspbarBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

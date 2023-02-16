@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Feb 2023 08:56:27 GMT
+// Generated on Thu, 16 Feb 2023 09:54:17 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -46,6 +46,9 @@ ColorUiDangerStrong,
 ColorUiDangerPale,
 ColorUiErrorStrong,
 ColorUiErrorPale,
+ColorUiSuccess50,
+ColorUiSuccess500,
+ColorUiSuccess600,
 ColorUiSuccessStrong,
 ColorUiSuccessPale,
 ColorLinkPrimary,
