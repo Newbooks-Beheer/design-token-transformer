@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Mar 2023 14:18:31 GMT
+// Generated on Wed, 08 Mar 2023 07:59:07 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -49,6 +49,3 @@ extern float const TypographyVariantsTinytextDefaultFontWeight;
 extern float const TypographyLinkDefaultFontWeight;
 extern float const TypographyLinkDefaultTightFontWeight;
 extern float const TypographyLinkDefaultSmallFontWeight;
-extern float const TypographyFontvariantsSmallcapsFontWeight;
-extern float const TypographyFontvariantsTinytextContrastFontWeight;
-extern float const TypographyFontvariantsTinytextDefaultFontWeight;

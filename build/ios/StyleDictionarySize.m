@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Mar 2023 14:18:31 GMT
+// Generated on Wed, 08 Mar 2023 07:59:07 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -50,6 +50,3 @@ float const TypographyVariantsTinytextDefaultFontWeight = 400;
 float const TypographyLinkDefaultFontWeight = 400;
 float const TypographyLinkDefaultTightFontWeight = 400;
 float const TypographyLinkDefaultSmallFontWeight = 400;
-float const TypographyFontvariantsSmallcapsFontWeight = 400;
-float const TypographyFontvariantsTinytextContrastFontWeight = 600;
-float const TypographyFontvariantsTinytextDefaultFontWeight = 400;
