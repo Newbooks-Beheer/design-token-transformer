@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 06:31:08 GMT
+// Generated on Tue, 21 Mar 2023 06:35:15 GMT
 
 
 import UIKit
@@ -55,9 +55,9 @@ public enum StyleDictionaryColor {
     public static let buttonPrimaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let buttonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonSecondaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let buttonSecondaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
-    public static let buttonSecondaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let buttonSecondaryBackgroundactive = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
+    public static let buttonSecondaryBackgroundfocus = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
+    public static let buttonSecondaryBackgroundhover = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
     public static let buttonSecondaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let buttonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)

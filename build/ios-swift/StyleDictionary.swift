@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 06:31:08 GMT
+// Generated on Tue, 21 Mar 2023 06:35:15 GMT
 
 
 import UIKit
@@ -55,9 +55,9 @@ public class StyleDictionary {
     public static let colorButtonPrimaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonPrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorButtonSecondaryBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorButtonSecondaryBackgroundactive = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
-    public static let colorButtonSecondaryBackgroundfocus = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
-    public static let colorButtonSecondaryBackgroundhover = UIColor(red: 0.922, green: 0.310, blue: 0.012, alpha: 1)
+    public static let colorButtonSecondaryBackgroundactive = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
+    public static let colorButtonSecondaryBackgroundfocus = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
+    public static let colorButtonSecondaryBackgroundhover = UIColor(red: 0.996, green: 0.929, blue: 0.914, alpha: 1)
     public static let colorButtonSecondaryFocusring = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonSecondaryText = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorButtonTertiaryBackground = UIColor(red: 0.953, green: 0.953, blue: 0.953, alpha: 1)
