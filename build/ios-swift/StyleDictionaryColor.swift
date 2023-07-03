@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Jul 2023 07:31:55 GMT
+// Generated on Mon, 03 Jul 2023 09:42:24 GMT
 
 
 import UIKit
@@ -14,13 +14,13 @@ public enum StyleDictionaryColor {
     public static let badgeBlockCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let badgeBlockHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let badgeBlockText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let badgeCtaBackground = UIColor(red: 0.016, green: 0.443, blue: 0.663, alpha: 1)
+    public static let badgeCtaBackground = UIColor(red: 0.000, green: 0.447, blue: 0.729, alpha: 1)
     public static let badgeCtaText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let badgeDangerBackground = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
     public static let badgeDangerText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let badgeErrorBackground = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let badgeErrorText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let badgeInfoBackground = UIColor(red: 0.016, green: 0.443, blue: 0.663, alpha: 1)
+    public static let badgeInfoBackground = UIColor(red: 0.000, green: 0.447, blue: 0.729, alpha: 1)
     public static let badgeInfoText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let badgeNeutralBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let badgeNeutralText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
@@ -30,7 +30,7 @@ public enum StyleDictionaryColor {
     public static let badgePrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let badgeSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let badgeSecondaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let badgeSucessBackground = UIColor(red: 0.329, green: 0.698, blue: 0.455, alpha: 1)
+    public static let badgeSucessBackground = UIColor(red: 0.373, green: 0.698, blue: 0.275, alpha: 1)
     public static let badgeSucessText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let badgeTagBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let badgeTagText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
