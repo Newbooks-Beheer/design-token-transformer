@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Jul 2023 10:16:19 GMT
+// Generated on Mon, 03 Jul 2023 10:48:32 GMT
 
 
 import UIKit
@@ -38,7 +38,8 @@ public enum StyleDictionarySize {
     public static let secondaryfontContrastSmallFontWeight = 500
     public static let secondaryfontContrastXlargeFontWeight = 500
     public static let secondaryfontContrastXxlargeFontWeight = 500
-    public static let secondaryfontContrastXxxlargeFontWeight = 500
+    public static let secondaryfontContrastXxxlargeFontWeight = 700
+    public static let secondaryfontContrastXxxlargezFontWeight = 500
     public static let secondaryfontDefaultDefaultFontWeight = 400
     public static let secondaryfontDefaultLargeFontWeight = 400
     public static let secondaryfontDefaultMediumFontWeight = 400

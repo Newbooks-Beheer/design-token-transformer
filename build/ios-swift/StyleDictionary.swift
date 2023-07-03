@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Jul 2023 10:16:19 GMT
+// Generated on Mon, 03 Jul 2023 10:48:32 GMT
 
 
 import UIKit
@@ -14,13 +14,13 @@ public class StyleDictionary {
     public static let colorBadgeBlockCta = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeBlockHighlight = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeBlockText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
-    public static let colorBadgeCtaBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorBadgeCtaBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeCtaText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorBadgeDangerBackground = UIColor(red: 0.996, green: 0.561, blue: 0.184, alpha: 1)
+    public static let colorBadgeDangerBackground = UIColor(red: 1.000, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorBadgeDangerText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorBadgeErrorBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorBadgeErrorBackground = UIColor(red: 0.992, green: 0.224, blue: 0.086, alpha: 1)
     public static let colorBadgeErrorText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorBadgeInfoBackground = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorBadgeInfoBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeInfoText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorBadgeNeutralBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorBadgeNeutralText = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
@@ -30,7 +30,7 @@ public class StyleDictionary {
     public static let colorBadgePrimaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorBadgeSecondaryBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeSecondaryText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorBadgeSuccessBackground = UIColor(red: 0.059, green: 0.749, blue: 0.149, alpha: 1)
+    public static let colorBadgeSuccessBackground = UIColor(red: 0.000, green: 0.667, blue: 0.075, alpha: 1)
     public static let colorBadgeSuccessText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorBadgeSucessBackground = UIColor(red: 0.373, green: 0.698, blue: 0.275, alpha: 1)
     public static let colorBadgeSucessText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -94,8 +94,8 @@ public class StyleDictionary {
     public static let colorIconDefault = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorIconRatingActive = UIColor(red: 0.996, green: 0.859, blue: 0.000, alpha: 1)
     public static let colorIconRatingInactive = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
-    public static let colorInlinemenuTextActive = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
-    public static let colorInlinemenuTextDefault = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
+    public static let colorInlinemenuTextActive = UIColor(red: 0.000, green: 0.184, blue: 0.424, alpha: 1)
+    public static let colorInlinemenuTextDefault = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
     public static let colorLinkList = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkNeutral = UIColor(red: 0.129, green: 0.102, blue: 0.169, alpha: 1)
     public static let colorLinkPrimary = UIColor(red: 0.000, green: 0.239, blue: 0.647, alpha: 1)
@@ -478,17 +478,28 @@ public class StyleDictionary {
     public static let typographySecondaryfontContrastXxlargeParagraphSpacing = 0
     public static let typographySecondaryfontContrastXxlargeTextCase = none
     public static let typographySecondaryfontContrastXxlargeTextDecoration = none
-    public static let typographySecondaryfontContrastXxxlargeFontFamily = Filson Pro
+    public static let typographySecondaryfontContrastXxxlargeFontFamily = IBM Plex Serif
     public static let typographySecondaryfontContrastXxxlargeFontSize = 49
     public static let typographySecondaryfontContrastXxxlargeFontStretch = normal
     public static let typographySecondaryfontContrastXxxlargeFontStyle = normal
-    public static let typographySecondaryfontContrastXxxlargeFontWeight = 500
+    public static let typographySecondaryfontContrastXxxlargeFontWeight = 700
     public static let typographySecondaryfontContrastXxxlargeLetterSpacing = 0
     public static let typographySecondaryfontContrastXxxlargeLineHeight = 56
     public static let typographySecondaryfontContrastXxxlargeParagraphIndent = 0
     public static let typographySecondaryfontContrastXxxlargeParagraphSpacing = 0
     public static let typographySecondaryfontContrastXxxlargeTextCase = none
     public static let typographySecondaryfontContrastXxxlargeTextDecoration = none
+    public static let typographySecondaryfontContrastXxxlargezFontFamily = Filson Pro
+    public static let typographySecondaryfontContrastXxxlargezFontSize = 49
+    public static let typographySecondaryfontContrastXxxlargezFontStretch = normal
+    public static let typographySecondaryfontContrastXxxlargezFontStyle = normal
+    public static let typographySecondaryfontContrastXxxlargezFontWeight = 500
+    public static let typographySecondaryfontContrastXxxlargezLetterSpacing = 0
+    public static let typographySecondaryfontContrastXxxlargezLineHeight = 56
+    public static let typographySecondaryfontContrastXxxlargezParagraphIndent = 0
+    public static let typographySecondaryfontContrastXxxlargezParagraphSpacing = 0
+    public static let typographySecondaryfontContrastXxxlargezTextCase = none
+    public static let typographySecondaryfontContrastXxxlargezTextDecoration = none
     public static let typographySecondaryfontDefaultDefaultFontFamily = Filson Pro
     public static let typographySecondaryfontDefaultDefaultFontSize = 16
     public static let typographySecondaryfontDefaultDefaultFontStretch = normal

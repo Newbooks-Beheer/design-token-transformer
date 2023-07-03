@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Jul 2023 10:16:19 GMT
+// Generated on Mon, 03 Jul 2023 10:48:32 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -43,6 +43,7 @@ extern float const TypographySecondaryfontContrastMediumFontWeight;
 extern float const TypographySecondaryfontContrastMediumTightFontWeight;
 extern float const TypographySecondaryfontContrastDefaultFontWeight;
 extern float const TypographySecondaryfontContrastSmallFontWeight;
+extern float const TypographySecondaryfontContrastXxxlargezFontWeight;
 extern float const TypographyVariantsSmallcapsFontWeight;
 extern float const TypographyVariantsTinytextContrastFontWeight;
 extern float const TypographyVariantsTinytextDefaultFontWeight;

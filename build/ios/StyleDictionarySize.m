@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 03 Jul 2023 10:16:19 GMT
+// Generated on Mon, 03 Jul 2023 10:48:32 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -36,7 +36,7 @@ float const TypographySecondaryfontDefaultMediumFontWeight = 400;
 float const TypographySecondaryfontDefaultMediumTightFontWeight = 400;
 float const TypographySecondaryfontDefaultDefaultFontWeight = 400;
 float const TypographySecondaryfontDefaultSmallFontWeight = 400;
-float const TypographySecondaryfontContrastXxxlargeFontWeight = 500;
+float const TypographySecondaryfontContrastXxxlargeFontWeight = 700;
 float const TypographySecondaryfontContrastXxlargeFontWeight = 500;
 float const TypographySecondaryfontContrastXlargeFontWeight = 500;
 float const TypographySecondaryfontContrastLargeFontWeight = 500;
@@ -44,6 +44,7 @@ float const TypographySecondaryfontContrastMediumFontWeight = 500;
 float const TypographySecondaryfontContrastMediumTightFontWeight = 500;
 float const TypographySecondaryfontContrastDefaultFontWeight = 500;
 float const TypographySecondaryfontContrastSmallFontWeight = 500;
+float const TypographySecondaryfontContrastXxxlargezFontWeight = 500;
 float const TypographyVariantsSmallcapsFontWeight = 400;
 float const TypographyVariantsTinytextContrastFontWeight = 700;
 float const TypographyVariantsTinytextDefaultFontWeight = 400;
