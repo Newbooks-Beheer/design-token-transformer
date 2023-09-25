@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 04 Jul 2023 06:53:28 GMT
+// Generated on Mon, 25 Sep 2023 10:16:18 GMT
 
 
 import UIKit
@@ -478,7 +478,7 @@ public class StyleDictionary {
     public static let typographySecondaryfontContrastXxlargeParagraphSpacing = 0
     public static let typographySecondaryfontContrastXxlargeTextCase = none
     public static let typographySecondaryfontContrastXxlargeTextDecoration = none
-    public static let typographySecondaryfontContrastXxxlargeFontFamily = IBM Plex Serif
+    public static let typographySecondaryfontContrastXxxlargeFontFamily = Queulat
     public static let typographySecondaryfontContrastXxxlargeFontSize = 49
     public static let typographySecondaryfontContrastXxxlargeFontStretch = normal
     public static let typographySecondaryfontContrastXxxlargeFontStyle = normal
