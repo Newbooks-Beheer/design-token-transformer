@@ -109,6 +109,15 @@
   --color-form-checkbox-hover-text: #ffffff;
   --color-form-radio-active: #959595;
   --color-form-input-border: #d9d9d9;
+  --color-form-input-borderhover: #b1b3b9;
+  --color-form-input-borderfocus: #002f6c;
+  --color-form-input-bordererror: #ed3325;
+  --color-form-input-bordersuccess: #0fbf26;
+  --color-form-input-background: #ffffff;
+  --color-form-input-backgrounddisabled: #f9f9f9;
+  --color-form-input-text: #242424;
+  --color-form-input-textplaceholder: #7f7f7f;
+  --color-form-input-textcolor: #7f7f7f;
   --color-button-primary-background: #ff5400;
   --color-button-primary-text: #ffffff;
   --color-button-primary-focusring: #ff5400;

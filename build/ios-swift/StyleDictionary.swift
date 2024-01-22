@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 22 Jan 2024 10:23:00 GMT
+// Generated on Mon, 22 Jan 2024 10:41:15 GMT
 
 
 import UIKit
@@ -85,7 +85,16 @@ public class StyleDictionary {
     public static let colorFormCheckboxCheckedText = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorFormCheckboxDisabledBackground = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorFormCheckboxHoverText = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorFormInputBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorFormInputBackgrounddisabled = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let colorFormInputBorder = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let colorFormInputBordererror = UIColor(red: 0.929, green: 0.200, blue: 0.145, alpha: 1)
+    public static let colorFormInputBorderfocus = UIColor(red: 0.000, green: 0.184, blue: 0.424, alpha: 1)
+    public static let colorFormInputBorderhover = UIColor(red: 0.694, green: 0.702, blue: 0.725, alpha: 1)
+    public static let colorFormInputBordersuccess = UIColor(red: 0.059, green: 0.749, blue: 0.149, alpha: 1)
+    public static let colorFormInputText = UIColor(red: 0.141, green: 0.141, blue: 0.141, alpha: 1)
+    public static let colorFormInputTextcolor = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
+    public static let colorFormInputTextplaceholder = UIColor(red: 0.498, green: 0.498, blue: 0.498, alpha: 1)
     public static let colorFormRadioActive = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
     public static let colorGreyGrey = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
     public static let colorGreyPale = UIColor(red: 0.949, green: 0.949, blue: 0.949, alpha: 1)

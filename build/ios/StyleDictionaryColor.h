@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 22 Jan 2024 10:23:00 GMT
+// Generated on Mon, 22 Jan 2024 10:41:15 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -120,6 +120,15 @@ ColorFormCheckboxCheckedText,
 ColorFormCheckboxHoverText,
 ColorFormRadioActive,
 ColorFormInputBorder,
+ColorFormInputBorderhover,
+ColorFormInputBorderfocus,
+ColorFormInputBordererror,
+ColorFormInputBordersuccess,
+ColorFormInputBackground,
+ColorFormInputBackgrounddisabled,
+ColorFormInputText,
+ColorFormInputTextplaceholder,
+ColorFormInputTextcolor,
 ColorButtonPrimaryBackground,
 ColorButtonPrimaryText,
 ColorButtonPrimaryFocusring,
