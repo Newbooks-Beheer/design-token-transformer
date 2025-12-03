@@ -1452,7 +1452,7 @@
       "background": {
         "description": "",
         "type": "color",
-        "value": "#f7b397ff",
+        "value": "#fdece5ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
