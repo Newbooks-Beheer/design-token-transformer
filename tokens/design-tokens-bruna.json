@@ -1988,6 +1988,32 @@
         }
       }
     },
+    "salebar": {
+      "background": {
+        "description": "",
+        "type": "color",
+        "value": "#764897ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:60c6cfc259a788c4e21f79fbc085dedf05b81dc9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "text": {
+        "description": "",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e4e1d8a4c48e1bde3602f65595bbb631b47adb52,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
     "navigation": {
       "text": {
         "description": "",
