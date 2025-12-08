@@ -1930,7 +1930,7 @@
       "background": {
         "description": "",
         "type": "color",
-        "value": "#ed3325ff",
+        "value": "#ffffffff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -1942,7 +1942,7 @@
       "text": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "#242424ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -1954,7 +1954,7 @@
       "iconcheck": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "#242424ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -1966,7 +1966,7 @@
       "border": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "#d7d8dbff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -1978,7 +1978,7 @@
       "icon": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "#242424ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
