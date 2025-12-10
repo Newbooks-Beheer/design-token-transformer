@@ -1884,7 +1884,7 @@
       "background": {
         "description": "",
         "type": "color",
-        "value": "#764897ff",
+        "value": "#f0d342ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -1896,7 +1896,7 @@
       "text": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "##454d54ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
