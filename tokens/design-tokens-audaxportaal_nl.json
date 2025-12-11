@@ -1896,7 +1896,7 @@
       "text": {
         "description": "",
         "type": "color",
-        "value": "##454d54ff",
+        "value": "#454d54ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
